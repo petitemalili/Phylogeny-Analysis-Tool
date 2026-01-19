@@ -1,0 +1,1212 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,NM_133770.2,NP_598531.2,10195515,curated,RefseqSelect,default-seq
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XM_006540421.2,XP_006540484.1,10195515,model,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XM_006540422.4,XP_006540485.1,10195515,model,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XM_011250741.4,XP_011249043.1,,model,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XM_017312382.3,XP_017167871.1,10195515,model,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XM_036153553.1,XP_036009446.1,,model,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XR_391109.2,,,curated,,
+76889,Coq8b,coenzyme Q8B,Mus musculus,house mouse,XR_004934204.1,,,curated,,
+79934,COQ8B,coenzyme Q8B,Homo sapiens,human,NM_024876.4,NP_079152.3,10195515,curated,RefseqSelect,default-seq
+79934,COQ8B,coenzyme Q8B,Homo sapiens,human,NM_001142555.3,NP_001136027.1,10195515,curated,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,NM_001012065.1,NP_001012065.1,10195515,curated,RefseqSelect,default-seq
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_017589119.3,XP_017444608.1,10195515,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_039111513.2,XP_038967441.1,,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_039111525.2,XP_038967453.1,,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_063261394.1,XP_063117464.1,,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_063261396.1,XP_063117466.1,,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XM_063261398.1,XP_063117468.1,,model,,
+308453,Coq8b,coenzyme Q8B,Rattus norvegicus,Norway rat,XR_005505196.2,,,curated,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936016.4,XP_016791505.2,,model,,default-seq
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936017.4,XP_016791506.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936019.4,XP_016791508.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936020.4,XP_016791509.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936021.4,XP_016791510.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936022.4,XP_016791511.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936023.4,XP_016791512.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_016936024.4,XP_016791513.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_024351386.3,XP_024207154.1,10195515,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_054674146.2,XP_054530121.2,,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_054674148.1,XP_054530123.1,,model,,
+456045,COQ8B,coenzyme Q8B,Pan troglodytes,chimpanzee,XM_063801715.1,XP_063657785.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_541612.7,XP_541612.4,10195515,model,,default-seq
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_014120284.3,XP_013975759.1,10195515,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_014120286.3,XP_013975761.1,10195515,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_014120305.3,XP_013975780.1,10195515,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_014120313.3,XP_013975788.1,10195515,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_022425523.2,XP_022281231.1,10195515,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468096.1,XP_038324024.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468097.1,XP_038324025.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468098.1,XP_038324026.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468099.1,XP_038324027.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468100.1,XP_038324028.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038468101.1,XP_038324029.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528838.1,XP_038384766.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528839.1,XP_038384767.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528840.1,XP_038384768.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528841.1,XP_038384769.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528843.1,XP_038384771.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038528844.1,XP_038384772.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593108.1,XP_038449036.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593109.1,XP_038449037.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593110.1,XP_038449038.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593111.1,XP_038449039.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593112.1,XP_038449040.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038593113.1,XP_038449041.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656930.1,XP_038512858.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656931.1,XP_038512859.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656932.1,XP_038512860.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656933.1,XP_038512861.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656934.1,XP_038512862.1,,model,,
+484498,COQ8B,coenzyme Q8B,Canis lupus familiaris,dog,XM_038656935.1,XP_038512863.1,,model,,
+514322,COQ8B,coenzyme Q8B,Bos taurus,domestic cattle,XM_002694992.7,XP_002695038.3,10195515,model,,default-seq
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,XM_015123954.2,XP_014979440.2,10195515,model,,default-seq
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,NM_001265945.1,NP_001252874.1,10195515,curated,,
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,XM_015123956.2,XP_014979442.2,10195515,model,,
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,XM_028838385.1,XP_028694218.1,10195515,model,,
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,XM_028838386.1,XP_028694219.1,10195515,model,,
+702379,COQ8B,coenzyme Q8B,Macaca mulatta,Rhesus monkey,XR_003724795.1,,,curated,,
+100018202,COQ8B,coenzyme Q8B,Monodelphis domestica,gray short-tailed opossum,XM_007491934.3,XP_007491996.1,10195515,model,,default-seq
+100018202,COQ8B,coenzyme Q8B,Monodelphis domestica,gray short-tailed opossum,XM_007491935.3,XP_007491997.1,10195515,model,,
+100018202,COQ8B,coenzyme Q8B,Monodelphis domestica,gray short-tailed opossum,XM_007491936.3,XP_007491998.1,10195515,model,,
+100018202,COQ8B,coenzyme Q8B,Monodelphis domestica,gray short-tailed opossum,XM_056796215.1,XP_056652193.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_001499251.7,XP_001499301.3,10195515,model,,default-seq
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_014736299.3,XP_014591785.1,10195515,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_014736331.3,XP_014591817.1,10195515,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_014736367.3,XP_014591853.1,10195515,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_014736407.3,XP_014591893.1,10195515,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224468.1,XP_070080569.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224470.1,XP_070080571.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224471.1,XP_070080572.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224472.1,XP_070080573.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224473.1,XP_070080574.1,,model,,
+100068218,COQ8B,coenzyme Q8B,Equus caballus,horse,XM_070224474.1,XP_070080575.1,,model,,
+100088218,COQ8B,coenzyme Q8B,Ornithorhynchus anatinus,platypus,XM_029065431.2,XP_028921264.1,10195515,model,,default-seq
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062179.1,XP_069918280.1,,model,,default-seq
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249715.4,XP_008247937.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249716.4,XP_008247938.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249717.4,XP_008247939.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249718.4,XP_008247940.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249719.4,XP_008247941.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249721.4,XP_008247943.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_008249722.4,XP_008247944.2,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062180.1,XP_069918281.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062181.1,XP_069918282.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062182.1,XP_069918283.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062183.1,XP_069918284.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062184.1,XP_069918285.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062185.1,XP_069918286.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062186.1,XP_069918287.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062187.1,XP_069918288.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062188.1,XP_069918289.1,,model,,
+100338698,COQ8B,coenzyme Q8B,Oryctolagus cuniculus,rabbit,XM_070062189.1,XP_069918290.1,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_008988041.4,XP_008986289.3,,model,,default-seq
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_008988042.5,XP_008986290.3,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_008988043.3,XP_008986291.3,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_008988044.4,XP_008986292.3,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_017967463.3,XP_017822952.3,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_035286390.2,XP_035142281.2,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_035286391.2,XP_035142282.2,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_035286392.2,XP_035142283.2,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_035286393.2,XP_035142284.2,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_035286394.2,XP_035142285.2,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_054249333.1,XP_054105308.1,,model,,
+100391932,COQ8B,coenzyme Q8B,Callithrix jacchus,white-tufted-ear marmoset,XM_054249334.1,XP_054105309.1,,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236915.3,XP_024092683.1,10195515,model,,default-seq
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236918.3,XP_024092686.1,10195515,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236919.3,XP_024092687.1,10195515,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236920.3,XP_024092688.1,10195515,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236921.3,XP_024092689.1,10195515,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_024236922.3,XP_024092690.1,10195515,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_054540448.2,XP_054396423.1,,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_054540449.2,XP_054396424.1,,model,,
+100447900,COQ8B,coenzyme Q8B,Pongo abelii,Sumatran orangutan,XM_063720109.1,XP_063576179.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638210.1,XP_034494101.1,,model,,default-seq
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638209.1,XP_034494100.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638211.1,XP_034494102.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638212.1,XP_034494103.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638213.1,XP_034494104.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638214.1,XP_034494105.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638215.1,XP_034494106.1,,model,,
+100466848,COQ8B,coenzyme Q8B,Ailuropoda melanoleuca,giant panda,XM_034638216.1,XP_034494107.1,,model,,
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_030796622.1,XP_030652482.1,,model,,default-seq
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_012496821.2,XP_012352275.1,10195515,model,,
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_030796623.1,XP_030652483.1,,model,,
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_030796625.1,XP_030652485.1,,model,,
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_030796626.1,XP_030652486.1,,model,,
+100583296,COQ8B,coenzyme Q8B,Nomascus leucogenys,northern white-cheeked gibbon,XM_030796627.1,XP_030652487.1,,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988581.2,XP_013844035.2,10195515,model,,default-seq
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_003355928.4,XP_003355976.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988583.2,XP_013844037.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988584.2,XP_013844038.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988585.2,XP_013844039.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988586.2,XP_013844040.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_013988587.2,XP_013844041.2,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_021094403.1,XP_020950062.1,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_021094404.1,XP_020950063.1,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_021094405.1,XP_020950064.1,10195515,model,,
+100626725,COQ8B,coenzyme Q8B,Sus scrofa,pig,XM_021094406.1,XP_020950065.1,10195515,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_010600346.3,XP_010598648.1,10195515,model,,default-seq
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_023539922.2,XP_023395690.2,,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_023539923.2,XP_023395691.1,10195515,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_023539924.2,XP_023395692.1,10195515,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_064293679.1,XP_064149749.1,,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XM_064293680.1,XP_064149750.1,,model,,
+100674955,COQ8B,coenzyme Q8B,Loxodonta africana,African savanna elephant,XR_010323312.1,,,model,,
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_003462007.4,XP_003462055.1,10195515,model,,default-seq
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_004999971.4,XP_005000028.1,10195515,model,,
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_013159351.2,XP_013014805.1,10195515,model,,
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_013159356.3,XP_013014810.1,10195515,model,,
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_013159362.3,XP_013014816.1,10195515,model,,
+100725341,Coq8b,coenzyme Q8B,Cavia porcellus,domestic guinea pig,XM_063252780.1,XP_063108850.1,,model,,
+100770066,Coq8b,coenzyme Q8B,Cricetulus griseus,Chinese hamster,XM_035449355.1,XP_035305246.1,,model,,default-seq
+100770066,Coq8b,coenzyme Q8B,Cricetulus griseus,Chinese hamster,XM_027430424.2,XP_027286225.1,10195515,model,,
+100770066,Coq8b,coenzyme Q8B,Cricetulus griseus,Chinese hamster,XM_027430427.2,XP_027286228.1,10195515,model,,
+100770066,Coq8b,coenzyme Q8B,Cricetulus griseus,Chinese hamster,XM_035449356.1,XP_035305247.1,,model,,
+100770066,Coq8b,coenzyme Q8B,Cricetulus griseus,Chinese hamster,XM_035457651.1,XP_035313542.1,,model,,
+100946054,COQ8B,coenzyme Q8B,Otolemur garnettii,small-eared galago,XM_023508246.1,XP_023364014.1,10195515,model,,default-seq
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_008964891.4,XP_008963139.3,,model,,default-seq
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_003812472.5,XP_003812520.3,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_008964889.6,XP_008963137.3,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_008964890.4,XP_008963138.3,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_008964893.4,XP_008963141.3,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_034945225.3,XP_034801116.2,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_034945226.2,XP_034801117.2,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_034945227.3,XP_034801118.2,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_055104005.2,XP_054959980.2,,model,,
+100986186,COQ8B,coenzyme Q8B,Pan paniscus,pygmy chimpanzee,XM_063600294.1,XP_063456364.1,,model,,
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_009194531.4,XP_009192795.1,10195515,model,,default-seq
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_003915555.5,XP_003915604.1,10195515,model,,
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_009194530.4,XP_009192794.1,10195515,model,,
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_009194532.4,XP_009192796.4,,model,,
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_009194533.4,XP_009192797.1,10195515,model,,
+101026306,COQ8B,coenzyme Q8B,Papio anubis,olive baboon,XM_009194534.4,XP_009192798.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_039465894.2,XP_039321828.1,,model,,default-seq
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_003943171.4,XP_003943220.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_010331029.3,XP_010329331.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_010331030.3,XP_010329332.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_010331031.3,XP_010329333.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_010331032.3,XP_010329334.1,10195515,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_039465897.2,XP_039321831.1,,model,,
+101043850,COQ8B,coenzyme Q8B,Saimiri boliviensis,Bolivian squirrel monkey,XM_039465898.2,XP_039321832.1,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XM_011289889.4,XP_011288191.1,10195515,model,,default-seq
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XM_045046885.1,XP_044902820.1,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XM_045046886.1,XP_044902821.1,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XM_045046887.1,XP_044902822.1,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XR_006590697.1,,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XR_006590698.1,,,model,,
+101091064,COQ8B,coenzyme Q8B,Felis catus,domestic cat,XR_006590699.1,,,model,,
+101120265,COQ8B,coenzyme Q8B,Ovis aries,sheep,XM_027978299.2,XP_027834100.1,10195515,model,,default-seq
+101120265,COQ8B,coenzyme Q8B,Ovis aries,sheep,XM_027978300.2,XP_027834101.1,10195515,model,,
+101120265,COQ8B,coenzyme Q8B,Ovis aries,sheep,XM_042232076.1,XP_042088010.1,,model,,
+101120265,COQ8B,coenzyme Q8B,Ovis aries,sheep,XM_042232077.1,XP_042088011.1,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_055369467.2,XP_055225442.2,,model,,default-seq
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_019016084.3,XP_018871629.2,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_019016085.3,XP_018871630.2,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_019016086.2,XP_018871631.2,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_055369470.1,XP_055225445.1,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_055369473.2,XP_055225448.1,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_055369474.2,XP_055225449.1,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_063701347.1,XP_063557417.1,,model,,
+101149501,COQ8B,coenzyme Q8B,Gorilla gorilla gorilla,western lowland gorilla,XM_063701348.1,XP_063557418.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_004271265.4,XP_004271313.3,,model,,default-seq
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_033430917.2,XP_033286808.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_033430918.2,XP_033286809.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_033430919.2,XP_033286810.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_033430920.2,XP_033286811.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_049703944.1,XP_049559901.1,,model,,
+101289806,COQ8B,coenzyme Q8B,Orcinus orca,killer whale,XM_049703945.1,XP_049559902.1,,model,,
+101357614,COQ8B,coenzyme Q8B,Trichechus manatus latirostris,Florida manatee,XM_004390865.2,XP_004390922.1,10195515,model,,default-seq
+101369697,COQ8B,coenzyme Q8B,Odobenus rosmarus divergens,Pacific walrus,XM_004396342.2,XP_004396399.1,10195515,model,,default-seq
+101369697,COQ8B,coenzyme Q8B,Odobenus rosmarus divergens,Pacific walrus,XM_004396343.2,XP_004396400.1,10195515,model,,
+101396945,LOC101396945,coenzyme Q8B,Ceratotherium simum simum,southern white rhinoceros,XM_004441555.2,XP_004441612.2,10195515,model,,default-seq
+101396945,LOC101396945,coenzyme Q8B,Ceratotherium simum simum,southern white rhinoceros,XM_014796183.1,XP_014651669.1,10195515,model,,
+101396945,LOC101396945,coenzyme Q8B,Ceratotherium simum simum,southern white rhinoceros,XM_014796184.1,XP_014651670.1,10195515,model,,
+101396945,LOC101396945,coenzyme Q8B,Ceratotherium simum simum,southern white rhinoceros,XM_014796185.1,XP_014651671.1,10195515,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_004458979.4,XP_004459036.1,10195515,model,,default-seq
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_004458980.5,XP_004459037.1,10195515,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_004458985.4,XP_004459042.1,10195515,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_004458986.4,XP_004459043.1,10195515,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_004458988.5,XP_004459045.1,10195515,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_058280277.2,XP_058136260.1,,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_071209271.1,XP_071065372.1,,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_071209272.1,XP_071065373.1,,model,,
+101422849,COQ8B,coenzyme Q8B,Dasypus novemcinctus,nine-banded armadillo,XM_071209273.1,XP_071065374.1,,model,,
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674620.1,XP_058530603.1,,model,,default-seq
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674621.1,XP_058530604.1,,model,,
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674622.1,XP_058530605.1,,model,,
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674623.1,XP_058530606.1,,model,,
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674624.1,XP_058530607.1,,model,,
+101532577,COQ8B,coenzyme Q8B,Ochotona princeps,American pika,XM_058674625.1,XP_058530608.1,,model,,
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146325.1,XP_055002300.1,,model,,default-seq
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146326.1,XP_055002301.1,,model,,
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146327.1,XP_055002302.1,,model,,
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146328.1,XP_055002303.1,,model,,
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146329.1,XP_055002304.1,,model,,
+101556030,COQ8B,coenzyme Q8B,Sorex araneus,European shrew,XM_055146330.1,XP_055002305.1,,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_004647976.2,XP_004648033.1,10195515,model,,default-seq
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708236.1,XP_023564004.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708237.1,XP_023564005.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708238.1,XP_023564006.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708239.1,XP_023564007.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708240.1,XP_023564008.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708241.1,XP_023564009.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708242.1,XP_023564010.1,10195515,model,,
+101575178,Coq8b,coenzyme Q8B,Octodon degus,degu,XM_023708243.1,XP_023564011.1,10195515,model,,
+101617095,Coq8b,coenzyme Q8B,Jaculus jaculus,lesser Egyptian jerboa,XM_045134383.1,XP_044990318.1,,model,,default-seq
+101617095,Coq8b,coenzyme Q8B,Jaculus jaculus,lesser Egyptian jerboa,XM_045134384.1,XP_044990319.1,,model,,
+101617095,Coq8b,coenzyme Q8B,Jaculus jaculus,lesser Egyptian jerboa,XM_045134385.1,XP_044990320.1,,model,,
+101617095,Coq8b,coenzyme Q8B,Jaculus jaculus,lesser Egyptian jerboa,XM_045134386.1,XP_044990321.1,,model,,
+101636711,COQ8B,coenzyme Q8B,Condylura cristata,star-nosed mole,XM_004693898.2,XP_004693955.2,10195515,model,,default-seq
+101636711,COQ8B,coenzyme Q8B,Condylura cristata,star-nosed mole,XM_012733779.1,XP_012589233.1,10195515,model,,
+101636711,COQ8B,coenzyme Q8B,Condylura cristata,star-nosed mole,XM_012733780.1,XP_012589234.1,10195515,model,,
+101636711,COQ8B,coenzyme Q8B,Condylura cristata,star-nosed mole,XM_012733781.1,XP_012589235.1,10195515,model,,
+101646605,COQ8B,coenzyme Q8B,Echinops telfairi,small Madagascar hedgehog,XM_013006726.3,XP_012862180.2,,model,,default-seq
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047647.2,XP_012903101.1,10195515,model,,default-seq
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047648.2,XP_012903102.1,10195515,model,,
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047649.2,XP_012903103.1,10195515,model,,
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047650.2,XP_012903104.1,10195515,model,,
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047651.2,XP_012903105.1,10195515,model,,
+101679852,COQ8B,coenzyme Q8B,Mustela putorius furo,domestic ferret,XM_013047652.2,XP_012903106.1,10195515,model,,
+101703397,Coq8b,coenzyme Q8B,Heterocephalus glaber,naked mole-rat,XM_004874226.3,XP_004874283.1,10195515,model,,default-seq
+101703397,Coq8b,coenzyme Q8B,Heterocephalus glaber,naked mole-rat,XM_013069051.2,XP_012924505.1,10195515,model,,
+101703397,Coq8b,coenzyme Q8B,Heterocephalus glaber,naked mole-rat,XM_013069052.2,XP_012924506.1,10195515,model,,
+101703397,Coq8b,coenzyme Q8B,Heterocephalus glaber,naked mole-rat,XM_013069053.2,XP_012924507.1,10195515,model,,
+101703397,Coq8b,coenzyme Q8B,Heterocephalus glaber,naked mole-rat,XM_021251726.1,XP_021107385.1,10195515,model,,
+101833302,Coq8b,coenzyme Q8B,Mesocricetus auratus,golden hamster,XM_040734688.1,XP_040590622.1,,model,,default-seq
+101833302,Coq8b,coenzyme Q8B,Mesocricetus auratus,golden hamster,XM_040734689.1,XP_040590623.1,,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_013363433.3,XP_013218887.2,10195515,model,,default-seq
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_005336441.4,XP_005336498.1,10195515,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_013363431.3,XP_013218885.1,10195515,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_013363432.3,XP_013218886.1,10195515,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_021734001.2,XP_021589676.1,10195515,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_040279981.1,XP_040135915.1,,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_040279982.1,XP_040135916.1,,model,,
+101964324,Coq8b,coenzyme Q8B,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_040279983.1,XP_040135917.1,,model,,
+101980423,Coq8b,coenzyme Q8B,Microtus ochrogaster,prairie vole,XM_005371584.2,XP_005371641.1,10195515,model,,default-seq
+101980423,Coq8b,coenzyme Q8B,Microtus ochrogaster,prairie vole,XM_013355332.2,XP_013210786.1,10195515,model,,
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414029.2,XP_005414086.2,10195515,model,,default-seq
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414027.2,XP_005414084.2,10195515,model,,
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414028.2,XP_005414085.2,10195515,model,,
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414030.2,XP_005414087.1,10195515,model,,
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414031.2,XP_005414088.1,10195515,model,,
+102007829,Coq8b,coenzyme Q8B,Chinchilla lanigera,long-tailed chinchilla,XM_005414032.2,XP_005414089.1,10195515,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_005589292.4,XP_005589349.2,,model,,default-seq
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_005589294.4,XP_005589351.3,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_005589295.3,XP_005589352.2,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_005589297.4,XP_005589354.2,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_005589298.4,XP_005589355.2,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_045379208.2,XP_045235143.2,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_045379209.2,XP_045235144.2,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_065535503.1,XP_065391575.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_065535504.1,XP_065391576.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023623.1,XP_073879724.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023624.1,XP_073879725.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023625.1,XP_073879726.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023626.1,XP_073879727.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023627.1,XP_073879728.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023628.1,XP_073879729.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023629.1,XP_073879730.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023630.1,XP_073879731.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023631.1,XP_073879732.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023632.1,XP_073879733.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023633.1,XP_073879734.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023634.1,XP_073879735.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023635.1,XP_073879736.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023636.1,XP_073879737.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023637.1,XP_073879738.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023638.1,XP_073879739.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023639.1,XP_073879740.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023640.1,XP_073879741.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023641.1,XP_073879742.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023642.1,XP_073879743.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023643.1,XP_073879744.1,,model,,
+102146508,COQ8B,coenzyme Q8B,Macaca fascicularis,crab-eating macaque,XM_074023644.1,XP_073879745.1,,model,,
+102189512,COQ8B,coenzyme Q8B,Capra hircus,goat,XM_018062437.1,XP_017917926.1,10195515,model,,default-seq
+102189512,COQ8B,coenzyme Q8B,Capra hircus,goat,XM_018062438.1,XP_017917927.1,10195515,model,,
+102189512,COQ8B,coenzyme Q8B,Capra hircus,goat,XM_018062439.1,XP_017917928.1,10195515,model,,
+102189512,COQ8B,coenzyme Q8B,Capra hircus,goat,XM_018062441.1,XP_017917930.1,10195515,model,,
+102189512,COQ8B,coenzyme Q8B,Capra hircus,goat,XM_018062442.1,XP_017917931.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541717.1,XP_014397203.1,10195515,model,,default-seq
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541715.1,XP_014397201.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541716.1,XP_014397202.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541718.1,XP_014397204.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541719.1,XP_014397205.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541720.1,XP_014397206.1,10195515,model,,
+102248638,COQ8B,coenzyme Q8B,Myotis brandtii,Brandt's bat,XM_014541721.1,XP_014397207.1,10195515,model,,
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_006052035.3,XP_006052097.1,10195515,model,,default-seq
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_006052036.3,XP_006052098.1,10195515,model,,
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_006052037.3,XP_006052099.1,10195515,model,,
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_006052038.3,XP_006052100.1,10195515,model,,
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_006052040.3,XP_006052102.1,10195515,model,,
+102405702,COQ8B,coenzyme Q8B,Bubalus bubalis,water buffalo,XM_025269130.2,XP_025124915.1,10195515,model,,
+102421818,COQ8B,coenzyme Q8B,Myotis lucifugus,little brown bat,XM_014467981.2,XP_014323467.2,10195515,model,,default-seq
+102421818,COQ8B,coenzyme Q8B,Myotis lucifugus,little brown bat,XM_014467982.2,XP_014323468.2,10195515,model,,
+102421818,COQ8B,coenzyme Q8B,Myotis lucifugus,little brown bat,XM_014467983.2,XP_014323469.2,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588112.2,XP_014443598.2,10195515,model,,default-seq
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_006140469.2,XP_006140531.2,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588072.2,XP_014443558.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588077.2,XP_014443563.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588087.2,XP_014443573.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588103.2,XP_014443589.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588108.2,XP_014443594.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588113.1,XP_014443599.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_014588115.2,XP_014443601.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_027771958.1,XP_027627759.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_027771959.1,XP_027627760.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_027771964.1,XP_027627765.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_027771966.1,XP_027627767.1,10195515,model,,
+102478920,COQ8B,coenzyme Q8B,Tupaia chinensis,Chinese tree shrew,XM_027771968.1,XP_027627769.1,10195515,model,,
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_006189830.3,XP_006189892.2,10195515,model,,default-seq
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_014563585.2,XP_014419071.2,,model,,
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_014563590.2,XP_014419076.1,10195515,model,,
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_032486013.1,XP_032341904.1,,model,,
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_032486014.1,XP_032341905.1,,model,,
+102509200,COQ8B,coenzyme Q8B,Camelus ferus,Wild Bactrian camel,XM_032486015.1,XP_032341906.1,,model,,
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_006215003.4,XP_006215065.2,10195515,model,,default-seq
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_015248510.3,XP_015103996.2,,model,,
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_031681799.2,XP_031537659.1,,model,,
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_031681800.2,XP_031537660.1,,model,,
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_072967011.1,XP_072823112.1,,model,,
+102542752,COQ8B,coenzyme Q8B,Vicugna pacos,alpaca,XM_072967012.1,XP_072823113.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_006750785.2,XP_006750848.1,10195515,model,,default-seq
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022075.1,XP_030877935.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022076.1,XP_030877936.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022077.1,XP_030877937.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022078.1,XP_030877938.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022079.1,XP_030877939.1,,model,,
+102748330,COQ8B,coenzyme Q8B,Leptonychotes weddellii,Weddell seal,XM_031022080.1,XP_030877940.1,,model,,
+102754407,COQ8B,coenzyme Q8B,Myotis davidii,,XM_006759191.2,XP_006759254.2,10195515,model,,default-seq
+102818827,COQ8B,coenzyme Q8B,Chrysochloris asiatica,Cape golden mole,XM_006871521.1,XP_006871583.1,10195515,model,,default-seq
+102847033,COQ8B,coenzyme Q8B,Elephantulus edwardii,Cape elephant shrew,XM_006900948.1,XP_006901010.1,10195515,model,,default-seq
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_006905419.3,XP_006905481.1,10195515,model,,default-seq
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_015594752.2,XP_015450238.1,10195515,model,,
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_015594754.2,XP_015450240.1,10195515,model,,
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_015594758.2,XP_015450244.1,10195515,model,,
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_015594764.2,XP_015450250.1,10195515,model,,
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_025050711.1,XP_024906479.1,10195515,model,,
+102880307,COQ8B,coenzyme Q8B,Pteropus alecto,black flying fox,XM_025050719.1,XP_024906487.1,10195515,model,,
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_006995835.4,XP_006995897.1,10195515,model,,default-seq
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_015989237.3,XP_015844723.1,10195515,model,,
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_015989238.3,XP_015844724.1,10195515,model,,
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_042273109.2,XP_042129043.1,,model,,
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_042273131.2,XP_042129065.1,,model,,
+102921516,Coq8b,coenzyme Q8B,Peromyscus maniculatus bairdii,prairie deer mouse,XM_076574564.1,XP_076430679.1,,model,,
+102963775,COQ8B,coenzyme Q8B,Panthera tigris,tiger,XM_042968847.1,XP_042824781.1,,model,,default-seq
+102963775,COQ8B,coenzyme Q8B,Panthera tigris,tiger,XM_042968848.1,XP_042824782.1,,model,,
+102963775,COQ8B,coenzyme Q8B,Panthera tigris,tiger,XM_042968849.1,XP_042824783.1,,model,,
+102963775,COQ8B,coenzyme Q8B,Panthera tigris,tiger,XM_042968850.1,XP_042824784.1,,model,,
+102963775,COQ8B,coenzyme Q8B,Panthera tigris,tiger,XR_006211782.1,,,model,,
+102995458,COQ8B,coenzyme Q8B,Physeter macrocephalus,sperm whale,XM_028484377.1,XP_028340178.1,10195515,model,,default-seq
+102995458,COQ8B,coenzyme Q8B,Physeter macrocephalus,sperm whale,XM_007128100.3,XP_007128162.2,10195515,model,,
+102995458,COQ8B,coenzyme Q8B,Physeter macrocephalus,sperm whale,XM_028484379.1,XP_028340180.1,10195515,model,,
+102995458,COQ8B,coenzyme Q8B,Physeter macrocephalus,sperm whale,XM_028484381.1,XP_028340182.1,10195515,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_057533932.1,XP_057389915.1,,model,,default-seq
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_007166805.2,XP_007166867.3,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_028161851.2,XP_028017652.2,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_028161855.2,XP_028017656.2,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_028161858.2,XP_028017659.2,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_057533933.1,XP_057389916.1,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_057533934.1,XP_057389917.1,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XM_057533935.1,XP_057389918.1,,model,,
+103013480,COQ8B,coenzyme Q8B,Balaenoptera acutorostrata,minke whale,XR_009006064.1,,,model,,
+103080499,COQ8B,coenzyme Q8B,Lipotes vexillifer,Yangtze River dolphin,XM_007458636.1,XP_007458698.1,10195515,model,,default-seq
+103126978,COQ8B,coenzyme Q8B,Erinaceus europaeus,western European hedgehog,XM_016194693.2,XP_016050179.1,10195515,model,,default-seq
+103126978,COQ8B,coenzyme Q8B,Erinaceus europaeus,western European hedgehog,XM_060185971.1,XP_060041954.1,,model,,
+103126978,COQ8B,coenzyme Q8B,Erinaceus europaeus,western European hedgehog,XM_060185972.1,XP_060041955.1,,model,,
+103198940,COQ8B,coenzyme Q8B,Orycteropus afer afer,,XM_007943146.2,XP_007941337.2,,model,,default-seq
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991713.2,XP_037847641.2,,model,,default-seq
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991711.2,XP_037847639.2,,model,,
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991714.2,XP_037847642.2,,model,,
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991715.2,XP_037847643.2,,model,,
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991716.2,XP_037847644.2,,model,,
+103234711,COQ8B,coenzyme Q8B,Chlorocebus sabaeus,green monkey,XM_037991717.2,XP_037847645.2,,model,,
+103259582,COQ8B,coenzyme Q8B,Carlito syrichta,Philippine tarsier,XM_008057236.1,XP_008055427.1,10195515,model,,default-seq
+103259582,COQ8B,coenzyme Q8B,Carlito syrichta,Philippine tarsier,XM_008057245.1,XP_008055436.1,10195515,model,,
+103259582,COQ8B,coenzyme Q8B,Carlito syrichta,Philippine tarsier,XM_021711938.1,XP_021567613.1,10195515,model,,
+103284301,COQ8B,coenzyme Q8B,Eptesicus fuscus,big brown bat,XM_028142654.2,XP_027998455.2,,model,,default-seq
+103284301,COQ8B,coenzyme Q8B,Eptesicus fuscus,big brown bat,XM_028142657.2,XP_027998458.2,,model,,
+103284301,COQ8B,coenzyme Q8B,Eptesicus fuscus,big brown bat,XM_028142659.2,XP_027998460.2,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557824.1,XP_070413925.1,,model,,default-seq
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_008541465.2,XP_008539687.2,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_008541466.2,XP_008539688.2,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_008541467.2,XP_008539689.2,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_008541468.2,XP_008539690.2,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557826.1,XP_070413927.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557827.1,XP_070413928.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557828.1,XP_070413929.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557829.1,XP_070413930.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557830.1,XP_070413931.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557831.1,XP_070413932.1,,model,,
+103565420,COQ8B,coenzyme Q8B,Equus przewalskii,Przewalski's horse,XM_070557834.1,XP_070413935.1,,model,,
+103603553,COQ8B,coenzyme Q8B,Galeopterus variegatus,Sunda flying lemur,XM_008588106.1,XP_008586328.1,10195515,model,,default-seq
+103603553,COQ8B,coenzyme Q8B,Galeopterus variegatus,Sunda flying lemur,XM_008588107.1,XP_008586329.1,10195515,model,,
+103661048,COQ8B,coenzyme Q8B,Ursus maritimus,polar bear,XM_008688720.2,XP_008686942.2,,model,,default-seq
+103750770,Coq8b,coenzyme Q8B,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_017803428.2,XP_017658917.1,10195515,model,,default-seq
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010380833.2,XP_010379135.2,,model,,default-seq
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010380834.2,XP_010379136.1,10195515,model,,
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030941921.1,XP_030797781.1,,model,,
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030941922.1,XP_030797782.1,,model,,
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030941923.1,XP_030797783.1,,model,,
+104676107,COQ8B,coenzyme Q8B,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030941924.1,XP_030797784.1,,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_010614453.3,XP_010612755.1,10195515,model,,default-seq
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_010614454.3,XP_010612756.1,10195515,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_010614455.3,XP_010612757.1,10195515,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_010614456.3,XP_010612758.1,10195515,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_010614457.3,XP_010612759.1,10195515,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_033765800.1,XP_033621691.1,,model,,
+104855581,Coq8b,coenzyme Q8B,Fukomys damarensis,Damara mole-rat,XM_033765801.1,XP_033621692.1,,model,,
+104995365,COQ8B,coenzyme Q8B,Bison bison bison,,XM_010849243.1,XP_010847545.1,10195515,model,,default-seq
+104995365,COQ8B,coenzyme Q8B,Bison bison bison,,XM_010849244.1,XP_010847546.1,10195515,model,,
+104995365,COQ8B,coenzyme Q8B,Bison bison bison,,XM_010849245.1,XP_010847547.1,10195515,model,,
+104995365,COQ8B,coenzyme Q8B,Bison bison bison,,XM_010849246.1,XP_010847548.1,10195515,model,,
+104995365,COQ8B,coenzyme Q8B,Bison bison bison,,XM_010849247.1,XP_010847549.1,10195515,model,,
+105062864,COQ8B,coenzyme Q8B,Camelus bactrianus,Bactrian camel,XM_010947268.3,XP_010945570.2,,model,,default-seq
+105062864,COQ8B,coenzyme Q8B,Camelus bactrianus,Bactrian camel,XM_010947270.3,XP_010945572.3,,model,,
+105062864,COQ8B,coenzyme Q8B,Camelus bactrianus,Bactrian camel,XM_010947273.3,XP_010945575.2,,model,,
+105062864,COQ8B,coenzyme Q8B,Camelus bactrianus,Bactrian camel,XM_045510889.2,XP_045366845.2,,model,,
+105062864,COQ8B,coenzyme Q8B,Camelus bactrianus,Bactrian camel,XM_045510890.2,XP_045366846.2,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_010985209.3,XP_010983511.2,,model,,default-seq
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_010985211.3,XP_010983513.3,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_010985214.3,XP_010983516.2,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_010985215.3,XP_010983517.2,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_010985216.3,XP_010983518.2,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_031458733.2,XP_031314593.1,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_031458734.2,XP_031314594.1,,model,,
+105093349,COQ8B,coenzyme Q8B,Camelus dromedarius,Arabian camel,XM_031458735.2,XP_031314595.2,,model,,
+105300206,COQ8B,coenzyme Q8B,Pteropus vampyrus,large flying fox,XM_023537903.1,XP_023393671.1,10195515,model,,default-seq
+105495331,COQ8B,coenzyme Q8B,Macaca nemestrina,pig-tailed macaque,XM_011764714.3,XP_011763016.1,10195515,model,,default-seq
+105495331,COQ8B,coenzyme Q8B,Macaca nemestrina,pig-tailed macaque,XM_011764716.2,XP_011763018.1,10195515,model,,
+105495331,COQ8B,coenzyme Q8B,Macaca nemestrina,pig-tailed macaque,XM_011764717.3,XP_011763019.1,10195515,model,,
+105495331,COQ8B,coenzyme Q8B,Macaca nemestrina,pig-tailed macaque,XM_011764718.3,XP_011763020.1,10195515,model,,
+105495331,COQ8B,coenzyme Q8B,Macaca nemestrina,pig-tailed macaque,XM_011764719.3,XP_011763021.1,10195515,model,,
+105519187,COQ8B,coenzyme Q8B,Colobus angolensis palliatus,,XM_011952488.1,XP_011807878.1,10195515,model,,default-seq
+105542246,COQ8B,coenzyme Q8B,Mandrillus leucophaeus,drill,XM_011983699.1,XP_011839089.1,10195515,model,,default-seq
+105597992,COQ8B,coenzyme Q8B,Cercocebus atys,sooty mangabey,XM_012086774.1,XP_011942164.1,10195515,model,,default-seq
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461429.3,XP_012316852.2,,model,,default-seq
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461430.3,XP_012316853.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461431.3,XP_012316854.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461432.2,XP_012316855.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461433.3,XP_012316856.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461434.3,XP_012316857.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461435.3,XP_012316858.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461436.2,XP_012316859.2,,model,,
+105723429,COQ8B,coenzyme Q8B,Aotus nancymaae,Ma's night monkey,XM_012461437.3,XP_012316860.2,,model,,
+105750166,COQ8B,coenzyme Q8B,Sarcophilus harrisii,Tasmanian devil,XM_031961634.1,XP_031817494.1,,model,,default-seq
+105876759,COQ8B,coenzyme Q8B,Microcebus murinus,gray mouse lemur,XM_012774545.2,XP_012629999.1,10195515,model,,default-seq
+105876759,COQ8B,coenzyme Q8B,Microcebus murinus,gray mouse lemur,XM_012774546.2,XP_012630000.1,10195515,model,,
+105876759,COQ8B,coenzyme Q8B,Microcebus murinus,gray mouse lemur,XM_012774548.3,XP_012630002.1,10195515,model,,
+105876759,COQ8B,coenzyme Q8B,Microcebus murinus,gray mouse lemur,XM_020283249.2,XP_020138838.1,10195515,model,,
+105998028,Coq8b,coenzyme Q8B,Dipodomys ordii,Ord's kangaroo rat,XM_013032623.1,XP_012888077.1,10195515,model,,default-seq
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759620.2,XP_044615555.1,,model,,default-seq
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759621.2,XP_044615556.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759622.2,XP_044615557.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759623.2,XP_044615558.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759624.2,XP_044615559.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759625.2,XP_044615560.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_044759626.2,XP_044615561.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_070498932.1,XP_070355033.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_070498933.1,XP_070355034.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_070498934.1,XP_070355035.1,,model,,
+106843253,COQ8B,coenzyme Q8B,Equus asinus,donkey,XM_070498935.1,XP_070355036.1,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XM_053210561.1,XP_053066536.1,,model,,default-seq
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XM_027044873.2,XP_026900674.1,10195515,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XM_053210562.1,XP_053066537.1,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XM_053210563.1,XP_053066538.1,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XM_053210564.1,XP_053066539.1,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XR_008293639.1,,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XR_008293640.1,,,model,,
+106979610,COQ8B,coenzyme Q8B,Acinonyx jubatus,cheetah,XR_008293641.1,,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_016166839.2,XP_016022325.2,,model,,default-seq
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_016166840.2,XP_016022326.2,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_016166841.2,XP_016022327.2,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_016166842.2,XP_016022328.2,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_036231670.1,XP_036087563.1,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_036231671.1,XP_036087564.1,,model,,
+107521808,COQ8B,coenzyme Q8B,Rousettus aegyptiacus,Egyptian rousette,XM_036231672.1,XP_036087565.1,,model,,
+107534207,COQ8B,coenzyme Q8B,Miniopterus natalensis,,XM_016209224.1,XP_016064710.1,10195515,model,,default-seq
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_017503176.2,XP_017358665.1,10195515,model,,default-seq
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_017503178.2,XP_017358667.1,10195515,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_017503180.2,XP_017358669.1,10195515,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_017503181.2,XP_017358670.1,10195515,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_037729450.1,XP_037585378.1,,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_037729451.1,XP_037585379.1,,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_037729452.1,XP_037585380.1,,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_037729453.1,XP_037585381.1,,model,,
+108285770,COQ8B,coenzyme Q8B,Cebus imitator,Panamanian white-faced capuchin,XM_037729454.1,XP_037585382.1,,model,,
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_037013924.1,XP_036869819.1,,model,,default-seq
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_017641551.3,XP_017497040.1,10195515,model,,
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_017641552.3,XP_017497041.1,10195515,model,,
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_017641553.2,XP_017497042.1,10195515,model,,
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_017641554.3,XP_017497043.1,10195515,model,,
+108384526,COQ8B,coenzyme Q8B,Manis javanica,Malayan pangolin,XM_073226465.1,XP_073082566.1,,model,,
+108539001,COQ8B,coenzyme Q8B,Rhinopithecus bieti,black snub-nosed monkey,XM_017887360.1,XP_017742849.1,13341160,model,,default-seq
+109256619,COQ8B,coenzyme Q8B,Panthera pardus,leopard,XM_053905911.1,XP_053761886.1,,model,,default-seq
+109256619,COQ8B,coenzyme Q8B,Panthera pardus,leopard,XM_019432105.2,XP_019287650.1,10195515,model,,
+109256619,COQ8B,coenzyme Q8B,Panthera pardus,leopard,XM_053905912.1,XP_053761887.1,,model,,
+109256619,COQ8B,coenzyme Q8B,Panthera pardus,leopard,XM_053905913.1,XP_053761888.1,,model,,
+109256619,COQ8B,coenzyme Q8B,Panthera pardus,leopard,XM_053905914.1,XP_053761889.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629807.1,XP_019485352.1,,model,,default-seq
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629808.1,XP_019485353.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629809.1,XP_019485354.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629810.1,XP_019485355.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629811.1,XP_019485356.1,10195515,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629812.1,XP_019485357.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629813.1,XP_019485358.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629814.1,XP_019485359.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629815.1,XP_019485360.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629816.1,XP_019485361.1,,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629818.1,XP_019485363.1,10195515,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629819.1,XP_019485364.1,10195515,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629820.1,XP_019485365.1,10195515,model,,
+109374867,COQ8B,coenzyme Q8B,Hipposideros armiger,great roundleaf bat,XM_019629821.1,XP_019485366.1,10195515,model,,
+109458111,COQ8B,coenzyme Q8B,Rhinolophus sinicus,Chinese rufous horseshoe bat,XM_074314300.1,XP_074170401.1,,model,,default-seq
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_033844305.2,XP_033700196.1,,model,,default-seq
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_033844306.2,XP_033700197.1,,model,,
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_033844307.2,XP_033700198.1,,model,,
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_033844308.2,XP_033700199.1,,model,,
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_073795887.1,XP_073651988.1,,model,,
+109549595,COQ8B,coenzyme Q8B,Tursiops truncatus,common bottlenose dolphin,XM_073795888.1,XP_073651989.1,,model,,
+109572748,COQ8B,coenzyme Q8B,Bos indicus,zebu cattle,XM_019979812.2,XP_019835371.2,,model,,default-seq
+109572748,COQ8B,coenzyme Q8B,Bos indicus,zebu cattle,XM_019979813.2,XP_019835372.2,,model,,
+109572748,COQ8B,coenzyme Q8B,Bos indicus,zebu cattle,XM_019979814.2,XP_019835373.2,,model,,
+109572748,COQ8B,coenzyme Q8B,Bos indicus,zebu cattle,XM_019979815.2,XP_019835374.2,,model,,
+109572748,COQ8B,coenzyme Q8B,Bos indicus,zebu cattle,XM_070771059.1,XP_070627160.1,,model,,
+109697663,Coq8b,coenzyme Q8B,Castor canadensis,American beaver,XM_020181399.2,XP_020036988.2,,model,,default-seq
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_020903845.2,XP_020759504.2,,model,,default-seq
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450828.1,XP_070306929.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450829.1,XP_070306930.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450830.1,XP_070306931.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450831.1,XP_070306932.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450832.1,XP_070306933.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450833.1,XP_070306934.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450834.1,XP_070306935.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450835.1,XP_070306936.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450836.1,XP_070306937.1,,model,,
+110144029,COQ8B,coenzyme Q8B,Odocoileus virginianus,white-tailed deer,XM_070450837.1,XP_070306938.1,,model,,
+110202844,COQ8B,coenzyme Q8B,Phascolarctos cinereus,koala,XM_020979210.1,XP_020834869.1,10195515,model,,default-seq
+110202844,COQ8B,coenzyme Q8B,Phascolarctos cinereus,koala,XM_020979212.1,XP_020834871.1,10195515,model,,
+110202844,COQ8B,coenzyme Q8B,Phascolarctos cinereus,koala,XM_020979222.1,XP_020834881.1,10195515,model,,
+110297881,Coq8b,coenzyme Q8B,Mus caroli,Ryukyu mouse,XM_021166951.1,XP_021022610.1,10195515,model,,default-seq
+110297881,Coq8b,coenzyme Q8B,Mus caroli,Ryukyu mouse,XM_021166952.2,XP_021022611.1,10195515,model,,
+110321640,Coq8b,coenzyme Q8B,Mus pahari,shrew mouse,XM_021198011.1,XP_021053670.1,10195515,model,,default-seq
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_021650637.2,XP_021506312.2,,model,,default-seq
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_021650634.2,XP_021506309.1,10195515,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_021650635.2,XP_021506310.1,10195515,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_021650636.2,XP_021506311.1,10195515,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_060366488.1,XP_060222471.1,,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_060366489.1,XP_060222472.1,,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_060366490.1,XP_060222473.1,,model,,
+110556736,Coq8b,coenzyme Q8B,Meriones unguiculatus,Mongolian gerbil,XM_060366491.1,XP_060222474.1,,model,,
+110590194,COQ8B,coenzyme Q8B,Neomonachus schauinslandi,Hawaiian monk seal,XM_044922207.1,XP_044778142.1,,model,,default-seq
+111161596,LOC111161596,coenzyme Q8B,Enhydra lutris kenyoni,northern sea otter,XM_022525351.1,XP_022381059.1,10195515,model,,default-seq
+111161596,LOC111161596,coenzyme Q8B,Enhydra lutris kenyoni,northern sea otter,XM_022525352.1,XP_022381060.1,10195515,model,,
+111180840,COQ8B,coenzyme Q8B,Delphinapterus leucas,beluga whale,XM_022585611.2,XP_022441319.1,10195515,model,,default-seq
+111180840,COQ8B,coenzyme Q8B,Delphinapterus leucas,beluga whale,XM_022585612.2,XP_022441320.1,10195515,model,,
+111553977,COQ8B,coenzyme Q8B,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023229181.2,XP_023084949.1,10195515,model,,default-seq
+111553977,COQ8B,coenzyme Q8B,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023229182.2,XP_023084950.1,10195515,model,,
+111553977,COQ8B,coenzyme Q8B,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023229183.2,XP_023084951.1,10195515,model,,
+111553977,COQ8B,coenzyme Q8B,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023229184.2,XP_023084952.1,10195515,model,,
+111553977,COQ8B,coenzyme Q8B,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023229185.2,XP_023084953.1,10195515,model,,
+112320247,COQ8B,coenzyme Q8B,Desmodus rotundus,common vampire bat,XM_045185581.2,XP_045041516.2,,model,,default-seq
+112415602,COQ8B,coenzyme Q8B,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768693.1,XP_024624461.1,10195515,model,,default-seq
+112415602,COQ8B,coenzyme Q8B,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768694.1,XP_024624462.1,10195515,model,,
+112415602,COQ8B,coenzyme Q8B,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768695.1,XP_024624463.1,10195515,model,,
+112415602,COQ8B,coenzyme Q8B,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768696.1,XP_024624464.1,10195515,model,,
+112415602,COQ8B,coenzyme Q8B,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768697.1,XP_024624465.1,10195515,model,,
+112611973,COQ8B,coenzyme Q8B,Theropithecus gelada,gelada,XM_025365925.1,XP_025221710.1,10195515,model,,default-seq
+112645449,COQ8B,coenzyme Q8B,Canis lupus dingo,dingo,XM_025424940.3,XP_025280725.1,10195515,model,,default-seq
+112645449,COQ8B,coenzyme Q8B,Canis lupus dingo,dingo,XM_025424941.3,XP_025280726.1,10195515,model,,
+112645449,COQ8B,coenzyme Q8B,Canis lupus dingo,dingo,XM_025424942.3,XP_025280727.1,10195515,model,,
+112645449,COQ8B,coenzyme Q8B,Canis lupus dingo,dingo,XM_025424946.3,XP_025280731.1,10195515,model,,
+112645449,COQ8B,coenzyme Q8B,Canis lupus dingo,dingo,XM_025424948.3,XP_025280733.1,10195515,model,,
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_025854634.2,XP_025710419.1,10195515,model,,default-seq
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_025854635.2,XP_025710420.1,10195515,model,,
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_025854638.1,XP_025710423.1,10195515,model,,
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_073885134.1,XP_073741235.1,,model,,
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_073885135.1,XP_073741236.1,,model,,
+112810795,COQ8B,coenzyme Q8B,Callorhinus ursinus,northern fur seal,XM_073885136.1,XP_073741237.1,,model,,
+112851319,COQ8B,coenzyme Q8B,Puma concolor,puma,XM_025914846.1,XP_025770631.1,10195515,model,,default-seq
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_026009999.2,XP_025865784.1,10195515,model,,default-seq
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_026010000.2,XP_025865785.1,10195515,model,,
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_072753045.1,XP_072609146.1,,model,,
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_072753059.1,XP_072609160.1,,model,,
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_072753070.1,XP_072609171.1,,model,,
+112928364,COQ8B,coenzyme Q8B,Vulpes vulpes,red fox,XM_072753077.1,XP_072609178.1,,model,,
+113198705,Coq8b,coenzyme Q8B,Urocitellus parryii,Arctic ground squirrel,XM_026411552.1,XP_026267337.1,10195515,model,,default-seq
+113243558,COQ8B,coenzyme Q8B,Ursus arctos,brown bear,XM_026482265.4,XP_026338050.1,10195515,model,,default-seq
+113243558,COQ8B,coenzyme Q8B,Ursus arctos,brown bear,XM_026482266.4,XP_026338051.1,10195515,model,,
+113243558,COQ8B,coenzyme Q8B,Ursus arctos,brown bear,XM_044378205.3,XP_044234140.1,,model,,
+113243558,COQ8B,coenzyme Q8B,Ursus arctos,brown bear,XM_057314485.1,XP_057170468.1,,model,,
+113243558,COQ8B,coenzyme Q8B,Ursus arctos,brown bear,XM_057314486.1,XP_057170469.1,,model,,
+113605896,LOC113605896,coenzyme Q8B,Sagmatias obliquidens,Pacific white-sided dolphin,XM_027079589.1,XP_026935390.1,10195515,model,,default-seq
+113605896,LOC113605896,coenzyme Q8B,Sagmatias obliquidens,Pacific white-sided dolphin,XM_027079590.1,XP_026935391.1,10195515,model,,
+113605896,LOC113605896,coenzyme Q8B,Sagmatias obliquidens,Pacific white-sided dolphin,XM_027079591.1,XP_026935392.1,10195515,model,,
+113605896,LOC113605896,coenzyme Q8B,Sagmatias obliquidens,Pacific white-sided dolphin,XM_027079592.1,XP_026935393.1,10195515,model,,
+113605896,LOC113605896,coenzyme Q8B,Sagmatias obliquidens,Pacific white-sided dolphin,XM_027079593.1,XP_026935394.1,10195515,model,,
+113876494,COQ8B,coenzyme Q8B,Bos indicus x Bos taurus,hybrid cattle,XM_027515773.1,XP_027371574.1,10195515,model,,default-seq
+113876494,COQ8B,coenzyme Q8B,Bos indicus x Bos taurus,hybrid cattle,XM_027515774.1,XP_027371575.1,10195515,model,,
+113876494,COQ8B,coenzyme Q8B,Bos indicus x Bos taurus,hybrid cattle,XM_027515775.1,XP_027371576.1,10195515,model,,
+113876494,COQ8B,coenzyme Q8B,Bos indicus x Bos taurus,hybrid cattle,XM_027515776.1,XP_027371577.1,10195515,model,,
+113876494,COQ8B,coenzyme Q8B,Bos indicus x Bos taurus,hybrid cattle,XM_027515777.1,XP_027371578.1,10195515,model,,
+113935280,COQ8B,coenzyme Q8B,Zalophus californianus,California sea lion,XM_027617019.2,XP_027472820.2,,model,,default-seq
+113935280,COQ8B,coenzyme Q8B,Zalophus californianus,California sea lion,XM_027617020.2,XP_027472821.2,,model,,
+113935280,COQ8B,coenzyme Q8B,Zalophus californianus,California sea lion,XM_027617022.2,XP_027472823.2,,model,,
+113935280,COQ8B,coenzyme Q8B,Zalophus californianus,California sea lion,XM_027617023.2,XP_027472824.2,,model,,
+113935280,COQ8B,coenzyme Q8B,Zalophus californianus,California sea lion,XM_027617024.2,XP_027472825.2,,model,,
+114038172,COQ8B,coenzyme Q8B,Vombatus ursinus,common wombat,XM_027855341.1,XP_027711142.1,10195515,model,,default-seq
+114038172,COQ8B,coenzyme Q8B,Vombatus ursinus,common wombat,XM_027855342.1,XP_027711143.1,10195515,model,,
+114038172,COQ8B,coenzyme Q8B,Vombatus ursinus,common wombat,XM_027855343.1,XP_027711144.1,10195515,model,,
+114038172,COQ8B,coenzyme Q8B,Vombatus ursinus,common wombat,XM_027855344.1,XP_027711145.1,10195515,model,,
+114097485,Coq8b,coenzyme Q8B,Marmota flaviventris,yellow-bellied marmot,XM_027941438.3,XP_027797239.2,,model,,default-seq
+114202470,COQ8B,coenzyme Q8B,Eumetopias jubatus,Steller sea lion,XM_028095674.1,XP_027951475.1,10195515,model,,default-seq
+114202470,COQ8B,coenzyme Q8B,Eumetopias jubatus,Steller sea lion,XM_028095675.1,XP_027951476.1,10195515,model,,
+114202470,COQ8B,coenzyme Q8B,Eumetopias jubatus,Steller sea lion,XM_028095676.1,XP_027951477.1,10195515,model,,
+114202470,COQ8B,coenzyme Q8B,Eumetopias jubatus,Steller sea lion,XM_028095677.1,XP_027951478.1,10195515,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_028530252.2,XP_028386053.1,10195515,model,,default-seq
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_028530253.2,XP_028386054.1,10195515,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_028530254.2,XP_028386055.1,10195515,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011939.1,XP_035867832.1,,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011940.1,XP_035867833.1,,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011941.1,XP_035867834.1,,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011942.1,XP_035867835.1,,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011943.1,XP_035867836.1,,model,,
+114511532,COQ8B,coenzyme Q8B,Phyllostomus discolor,pale spear-nosed bat,XM_036011944.1,XP_035867837.1,,model,,
+114633007,Coq8b,coenzyme Q8B,Grammomys surdaster,,XM_028781613.1,XP_028637446.1,10195515,model,,default-seq
+114633007,Coq8b,coenzyme Q8B,Grammomys surdaster,,XM_028781614.1,XP_028637447.1,10195515,model,,
+114633007,Coq8b,coenzyme Q8B,Grammomys surdaster,,XM_028781615.1,XP_028637448.1,10195515,model,,
+114633007,Coq8b,coenzyme Q8B,Grammomys surdaster,,XM_028781616.1,XP_028637449.1,10195515,model,,
+114633007,Coq8b,coenzyme Q8B,Grammomys surdaster,,XM_028781617.1,XP_028637450.1,10195515,model,,
+114681537,Coq8b,coenzyme Q8B,Peromyscus leucopus,white-footed mouse,XM_028855066.2,XP_028710899.1,10195515,model,,default-seq
+114681537,Coq8b,coenzyme Q8B,Peromyscus leucopus,white-footed mouse,XM_028855068.2,XP_028710901.1,10195515,model,,
+114681537,Coq8b,coenzyme Q8B,Peromyscus leucopus,white-footed mouse,XM_028855069.2,XP_028710902.1,10195515,model,,
+114681537,Coq8b,coenzyme Q8B,Peromyscus leucopus,white-footed mouse,XM_028855070.2,XP_028710903.1,10195515,model,,
+114681537,Coq8b,coenzyme Q8B,Peromyscus leucopus,white-footed mouse,XM_037201122.1,XP_037057017.1,,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206797.1,XP_029062630.1,10195515,model,,default-seq
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206805.1,XP_029062638.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206812.1,XP_029062645.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206819.1,XP_029062652.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206828.1,XP_029062661.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206837.1,XP_029062670.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206845.1,XP_029062678.1,10195515,model,,
+114886368,COQ8B,coenzyme Q8B,Monodon monoceros,narwhal,XM_029206853.1,XP_029062686.1,10195515,model,,
+115280754,COQ8B,coenzyme Q8B,Suricata suricatta,meerkat,XM_029925820.1,XP_029781680.1,,model,,default-seq
+115280754,COQ8B,coenzyme Q8B,Suricata suricatta,meerkat,XM_029925821.1,XP_029781681.1,,model,,
+115280754,COQ8B,coenzyme Q8B,Suricata suricatta,meerkat,XM_029925822.1,XP_029781682.1,,model,,
+115502382,COQ8B,coenzyme Q8B,Lynx canadensis,Canada lynx,XM_030297674.2,XP_030153534.1,,model,,default-seq
+115502382,COQ8B,coenzyme Q8B,Lynx canadensis,Canada lynx,XM_030297675.1,XP_030153535.1,,model,,
+115502382,COQ8B,coenzyme Q8B,Lynx canadensis,Canada lynx,XR_003965076.1,,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_030874194.2,XP_030730054.1,,model,,default-seq
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_030874199.2,XP_030730059.1,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_060289092.1,XP_060145075.1,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_060289093.2,XP_060145076.1,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_060289094.1,XP_060145077.1,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_060289095.1,XP_060145078.1,,model,,
+115862411,COQ8B,coenzyme Q8B,Globicephala melas,long-finned pilot whale,XM_060289096.1,XP_060145079.1,,model,,
+116101876,Coq8b,coenzyme Q8B,Mastomys coucha,southern multimammate mouse,XM_031385826.1,XP_031241686.1,,model,,default-seq
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172859.2,XP_032028750.2,,model,,default-seq
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172860.2,XP_032028751.2,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172861.2,XP_032028752.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172862.2,XP_032028753.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172863.2,XP_032028754.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172865.2,XP_032028756.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_032172866.2,XP_032028757.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_058426933.1,XP_058282916.1,,model,,
+116480665,COQ8B,coenzyme Q8B,Hylobates moloch,silvery gibbon,XM_058426934.1,XP_058282917.1,,model,,
+116530602,COQ8B,coenzyme Q8B,Sapajus apella,tufted capuchin,XM_032248716.1,XP_032104607.1,,model,,default-seq
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324064.1,XP_032179955.1,,model,,default-seq
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324065.1,XP_032179956.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324066.1,XP_032179957.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324067.1,XP_032179958.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324069.1,XP_032179960.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324070.1,XP_032179961.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324071.1,XP_032179962.1,,model,,
+116579115,COQ8B,coenzyme Q8B,Mustela erminea,ermine,XM_032324072.1,XP_032179963.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390643.1,XP_032246534.1,,model,,default-seq
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390644.1,XP_032246535.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390645.1,XP_032246536.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390647.1,XP_032246538.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390648.1,XP_032246539.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390649.1,XP_032246540.1,,model,,
+116623444,COQ8B,coenzyme Q8B,Phoca vitulina,harbor seal,XM_032390650.1,XP_032246541.1,,model,,
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612248.1,XP_032468139.1,,model,,default-seq
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612249.1,XP_032468140.1,,model,,
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612250.1,XP_032468141.1,,model,,
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612251.1,XP_032468142.1,,model,,
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612252.1,XP_032468143.1,,model,,
+116743611,COQ8B,coenzyme Q8B,Phocoena sinus,vaquita,XM_032612254.1,XP_032468145.1,,model,,
+116857683,COQ8B,coenzyme Q8B,Lontra canadensis,Northern American river otter,XM_032841988.1,XP_032697879.1,,model,,default-seq
+116892437,Coq8b,coenzyme Q8B,Rattus rattus,black rat,XM_032894126.1,XP_032750017.1,,model,,default-seq
+116892437,Coq8b,coenzyme Q8B,Rattus rattus,black rat,XM_032894127.1,XP_032750018.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128704.1,XP_032984595.1,,model,,default-seq
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128705.1,XP_032984596.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128706.1,XP_032984597.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128707.1,XP_032984598.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128708.1,XP_032984599.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128709.1,XP_032984600.1,,model,,
+117035074,COQ8B,coenzyme Q8B,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033128710.1,XP_032984601.1,,model,,
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224916.1,XP_033080807.1,,model,,default-seq
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224917.1,XP_033080808.1,,model,,
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224918.1,XP_033080809.1,,model,,
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224920.1,XP_033080811.1,,model,,
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224921.1,XP_033080812.1,,model,,
+117091933,COQ8B,coenzyme Q8B,Trachypithecus francoisi,Francois's langur,XM_033224922.1,XP_033080813.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_076930308.1,XP_076786423.1,,model,,default-seq
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_034494398.2,XP_034350289.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_034494406.2,XP_034350297.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_034494415.2,XP_034350306.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_034494432.2,XP_034350323.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_076930314.1,XP_076786429.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_076930316.1,XP_076786431.1,,model,,
+117703010,Coq8b,coenzyme Q8B,Arvicanthis niloticus,Nile rat,XM_076930318.1,XP_076786433.1,,model,,
+118022646,COQ8B,coenzyme Q8B,Mirounga leonina,Southern elephant seal,XM_035023317.1,XP_034879208.1,,model,,default-seq
+118022646,COQ8B,coenzyme Q8B,Mirounga leonina,Southern elephant seal,XM_035023318.1,XP_034879209.1,,model,,
+118022646,COQ8B,coenzyme Q8B,Mirounga leonina,Southern elephant seal,XM_035023319.1,XP_034879210.1,,model,,
+118022646,COQ8B,coenzyme Q8B,Mirounga leonina,Southern elephant seal,XM_035023320.1,XP_034879211.1,,model,,
+118537526,COQ8B,coenzyme Q8B,Halichoerus grypus,gray seal,XM_036094999.1,XP_035950892.1,,model,,default-seq
+118537526,COQ8B,coenzyme Q8B,Halichoerus grypus,gray seal,XM_036095000.1,XP_035950893.1,,model,,
+118537526,COQ8B,coenzyme Q8B,Halichoerus grypus,gray seal,XM_036095001.1,XP_035950894.1,,model,,
+118537526,COQ8B,coenzyme Q8B,Halichoerus grypus,gray seal,XM_036095002.1,XP_035950895.1,,model,,
+118537526,COQ8B,coenzyme Q8B,Halichoerus grypus,gray seal,XM_036095003.1,XP_035950896.1,,model,,
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186593.1,XP_036042486.1,,model,,default-seq
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186600.1,XP_036042493.1,,model,,
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186609.1,XP_036042502.1,,model,,
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186620.1,XP_036042513.1,,model,,
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186628.1,XP_036042521.1,,model,,
+118583192,Coq8b,coenzyme Q8B,Onychomys torridus,southern grasshopper mouse,XM_036186637.1,XP_036042530.1,,model,,
+118638524,COQ8B,coenzyme Q8B,Molossus molossus,Pallas's mastiff bat,XM_036274498.1,XP_036130391.1,,model,,default-seq
+118638524,COQ8B,coenzyme Q8B,Molossus molossus,Pallas's mastiff bat,XM_036274499.1,XP_036130392.1,,model,,
+118674792,COQ8B,coenzyme Q8B,Myotis myotis,,XM_036346868.1,XP_036202761.1,,model,,default-seq
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036408018.2,XP_036263911.1,,model,,default-seq
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036408019.2,XP_036263912.1,,model,,
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036408020.2,XP_036263913.1,,model,,
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036408022.2,XP_036263915.1,,model,,
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036408023.2,XP_036263916.1,,model,,
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_045570855.1,XP_045426811.1,,model,,
+118702271,COQ8B,coenzyme Q8B,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_045570856.1,XP_045426812.1,,model,,
+118835707,COQ8B,coenzyme Q8B,Trichosurus vulpecula,common brushtail,XM_036742947.1,XP_036598842.1,,model,,default-seq
+118835707,COQ8B,coenzyme Q8B,Trichosurus vulpecula,common brushtail,XM_036742948.1,XP_036598843.1,,model,,
+118835707,COQ8B,coenzyme Q8B,Trichosurus vulpecula,common brushtail,XM_036742949.1,XP_036598844.1,,model,,
+118885300,COQ8B,coenzyme Q8B,Balaenoptera musculus,blue whale,XM_036833885.1,XP_036689780.1,,model,,default-seq
+118885300,COQ8B,coenzyme Q8B,Balaenoptera musculus,blue whale,XM_036833886.1,XP_036689781.1,,model,,
+118885300,COQ8B,coenzyme Q8B,Balaenoptera musculus,blue whale,XM_036833887.1,XP_036689782.1,,model,,
+118885300,COQ8B,coenzyme Q8B,Balaenoptera musculus,blue whale,XM_036833889.1,XP_036689784.1,,model,,
+118885300,COQ8B,coenzyme Q8B,Balaenoptera musculus,blue whale,XM_036833890.1,XP_036689785.1,,model,,
+118918072,COQ8B,coenzyme Q8B,Manis pentadactyla,Chinese pangolin,XM_036896502.2,XP_036752397.2,,model,,default-seq
+118918072,COQ8B,coenzyme Q8B,Manis pentadactyla,Chinese pangolin,XM_036896503.2,XP_036752398.2,,model,,
+118918072,COQ8B,coenzyme Q8B,Manis pentadactyla,Chinese pangolin,XM_036896505.2,XP_036752400.2,,model,,
+118918072,COQ8B,coenzyme Q8B,Manis pentadactyla,Chinese pangolin,XM_057493111.1,XP_057349094.1,,model,,
+118918072,COQ8B,coenzyme Q8B,Manis pentadactyla,Chinese pangolin,XM_057493112.1,XP_057349095.1,,model,,
+118984209,COQ8B,coenzyme Q8B,Sturnira hondurensis,,XM_037041980.1,XP_036897875.1,,model,,default-seq
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133675.2,XP_036989570.2,,model,,default-seq
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133684.2,XP_036989579.2,,model,,
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133689.2,XP_036989584.2,,model,,
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133696.2,XP_036989591.2,,model,,
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133704.2,XP_036989599.2,,model,,
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133715.2,XP_036989610.2,,model,,
+119040641,COQ8B,coenzyme Q8B,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037133724.2,XP_036989619.2,,model,,
+119249333,COQ8B,coenzyme Q8B,Talpa occidentalis,Iberian mole,XM_037516596.2,XP_037372493.1,,model,,default-seq
+119249333,COQ8B,coenzyme Q8B,Talpa occidentalis,Iberian mole,XM_037516597.2,XP_037372494.1,,model,,
+119521354,COQ8B,coenzyme Q8B,Choloepus didactylus,southern two-toed sloth,XM_037819529.1,XP_037675457.1,,model,,default-seq
+119521354,COQ8B,coenzyme Q8B,Choloepus didactylus,southern two-toed sloth,XM_037819530.1,XP_037675458.1,,model,,
+119521354,COQ8B,coenzyme Q8B,Choloepus didactylus,southern two-toed sloth,XM_037819532.1,XP_037675460.1,,model,,
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338543.2,XP_038194471.1,,model,,default-seq
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338544.2,XP_038194472.1,,model,,
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338545.2,XP_038194473.1,,model,,
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338546.2,XP_038194474.1,,model,,
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338547.2,XP_038194475.1,,model,,
+119820339,Coq8b,coenzyme Q8B,Arvicola amphibius,Eurasian water vole,XM_038338548.1,XP_038194476.1,,model,,
+119945939,COQ8B,coenzyme Q8B,Tachyglossus aculeatus,Australian echidna,XM_038767241.1,XP_038623169.1,,model,,default-seq
+119945939,COQ8B,coenzyme Q8B,Tachyglossus aculeatus,Australian echidna,XM_038767242.1,XP_038623170.1,,model,,
+120241130,COQ8B,coenzyme Q8B,Hyaena hyaena,striped hyena,XM_039246057.1,XP_039101988.1,,model,,default-seq
+120241130,COQ8B,coenzyme Q8B,Hyaena hyaena,striped hyena,XM_039246066.1,XP_039101997.1,,model,,
+120241130,COQ8B,coenzyme Q8B,Hyaena hyaena,striped hyena,XM_039246074.1,XP_039102005.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853481.1,XP_039709415.1,,model,,default-seq
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853487.1,XP_039709421.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853494.1,XP_039709428.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853501.1,XP_039709435.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853510.1,XP_039709444.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853519.1,XP_039709453.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853527.1,XP_039709461.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853534.1,XP_039709468.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853541.1,XP_039709475.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853550.1,XP_039709484.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853555.1,XP_039709489.1,,model,,
+120595395,COQ8B,coenzyme Q8B,Pteropus medius,Indian flying fox,XM_039853562.1,XP_039709496.1,,model,,
+120872400,COQ8B,coenzyme Q8B,Oryx dammah,scimitar-horned oryx,XM_040252734.1,XP_040108668.1,,model,,default-seq
+120872400,COQ8B,coenzyme Q8B,Oryx dammah,scimitar-horned oryx,XM_040252735.1,XP_040108669.1,,model,,
+121011431,COQ8B,coenzyme Q8B,Herpailurus yagouaroundi,jaguarundi,XM_040445815.1,XP_040301749.1,,model,,default-seq
+121011431,COQ8B,coenzyme Q8B,Herpailurus yagouaroundi,jaguarundi,XM_040445816.1,XP_040301750.1,,model,,
+121011431,COQ8B,coenzyme Q8B,Herpailurus yagouaroundi,jaguarundi,XR_005781622.1,,,model,,
+121153778,COQ8B,coenzyme Q8B,Ochotona curzoniae,black-lipped pika,XM_040976524.1,XP_040832458.1,,model,,default-seq
+121449172,Coq8b,coenzyme Q8B,Microtus oregoni,creeping vole,XM_041653437.1,XP_041509371.1,,model,,default-seq
+121449172,Coq8b,coenzyme Q8B,Microtus oregoni,creeping vole,XM_041653438.1,XP_041509372.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746438.1,XP_041602372.1,,model,,default-seq
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746439.1,XP_041602373.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746440.1,XP_041602374.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746441.1,XP_041602375.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746442.1,XP_041602376.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746443.1,XP_041602377.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746445.1,XP_041602379.1,,model,,
+121485728,COQ8B,coenzyme Q8B,Vulpes lagopus,Arctic fox,XM_041746446.1,XP_041602380.1,,model,,
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667930.1,XP_042523864.1,,model,,default-seq
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667931.1,XP_042523865.1,,model,,
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667932.1,XP_042523866.1,,model,,
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667933.1,XP_042523867.1,,model,,
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667934.1,XP_042523868.1,,model,,
+122097436,Coq8b,coenzyme Q8B,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667935.1,XP_042523869.1,,model,,
+122208123,COQ8B,coenzyme Q8B,Panthera leo,lion,XM_042918824.1,XP_042774758.1,,model,,default-seq
+122208123,COQ8B,coenzyme Q8B,Panthera leo,lion,XM_042918825.1,XP_042774759.1,,model,,
+122208123,COQ8B,coenzyme Q8B,Panthera leo,lion,XM_042918826.1,XP_042774760.1,,model,,
+122208123,COQ8B,coenzyme Q8B,Panthera leo,lion,XR_006197116.1,,,model,,
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XM_043435798.1,XP_043291733.1,,model,,default-seq
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XM_043435799.1,XP_043291734.1,,model,,
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XM_043435800.1,XP_043291735.1,,model,,
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XM_043435802.1,XP_043291737.1,,model,,
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XR_006263322.1,,,model,,
+122420568,COQ8B,coenzyme Q8B,Cervus canadensis,elk,XR_006263323.1,,,model,,
+122494029,COQ8B,coenzyme Q8B,Prionailurus bengalensis,leopard cat,XM_043598871.1,XP_043454806.1,,model,,default-seq
+122494029,COQ8B,coenzyme Q8B,Prionailurus bengalensis,leopard cat,XM_043598872.1,XP_043454807.1,,model,,
+122494029,COQ8B,coenzyme Q8B,Prionailurus bengalensis,leopard cat,XR_006300089.1,,,model,,
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XM_043899211.1,XP_043755146.1,,model,,default-seq
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XM_043899212.1,XP_043755147.1,,model,,
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XM_043899213.1,XP_043755148.1,,model,,
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XM_043899214.1,XP_043755149.1,,model,,
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XR_006340563.1,,,model,,
+122692036,COQ8B,coenzyme Q8B,Cervus elaphus,red deer,XR_006340564.1,,,model,,
+122751754,COQ8B,coenzyme Q8B,Dromiciops gliroides,monito del monte,XM_043998913.1,XP_043854848.1,,model,,default-seq
+122751754,COQ8B,coenzyme Q8B,Dromiciops gliroides,monito del monte,XM_043998914.1,XP_043854849.1,,model,,
+122751754,COQ8B,coenzyme Q8B,Dromiciops gliroides,monito del monte,XM_043998915.1,XP_043854850.1,,model,,
+122912048,COQ8B,coenzyme Q8B,Neogale vison,American mink,XM_044257333.1,XP_044113268.1,,model,,default-seq
+122912048,COQ8B,coenzyme Q8B,Neogale vison,American mink,XM_044257334.1,XP_044113269.1,,model,,
+122912048,COQ8B,coenzyme Q8B,Neogale vison,American mink,XM_044257335.1,XP_044113270.1,,model,,
+122912048,COQ8B,coenzyme Q8B,Neogale vison,American mink,XM_044257336.1,XP_044113271.1,,model,,
+122912048,COQ8B,coenzyme Q8B,Neogale vison,American mink,XM_044257337.1,XP_044113272.1,,model,,
+123240018,COQ8B,coenzyme Q8B,Gracilinanus agilis,Agile Gracile Mouse Opossum,XM_044667360.1,XP_044523295.1,,model,,default-seq
+123240018,COQ8B,coenzyme Q8B,Gracilinanus agilis,Agile Gracile Mouse Opossum,XM_044667361.1,XP_044523296.1,,model,,
+123578928,COQ8B,coenzyme Q8B,Leopardus geoffroyi,Geoffroy's cat,XM_045442289.1,XP_045298245.1,,model,,default-seq
+123578928,COQ8B,coenzyme Q8B,Leopardus geoffroyi,Geoffroy's cat,XM_045442290.1,XP_045298246.1,,model,,
+123578928,COQ8B,coenzyme Q8B,Leopardus geoffroyi,Geoffroy's cat,XM_045442291.1,XP_045298247.1,,model,,
+123578928,COQ8B,coenzyme Q8B,Leopardus geoffroyi,Geoffroy's cat,XM_045442292.1,XP_045298248.1,,model,,
+123578928,COQ8B,coenzyme Q8B,Leopardus geoffroyi,Geoffroy's cat,XR_006702569.1,,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531954.1,XP_045387910.1,,model,,default-seq
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531955.1,XP_045387911.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531956.1,XP_045387912.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531957.1,XP_045387913.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531958.1,XP_045387914.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531959.1,XP_045387915.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531960.1,XP_045387916.1,,model,,
+123624306,COQ8B,coenzyme Q8B,Lemur catta,Ring-tailed lemur,XM_045531961.1,XP_045387917.1,,model,,
+123783859,COQ8B,coenzyme Q8B,Ursus americanus,American black bear,XM_045784868.1,XP_045640824.1,,model,,default-seq
+123783859,COQ8B,coenzyme Q8B,Ursus americanus,American black bear,XM_045784944.1,XP_045640900.1,,model,,
+123783859,COQ8B,coenzyme Q8B,Ursus americanus,American black bear,XM_045784961.1,XP_045640917.1,,model,,
+123783859,COQ8B,coenzyme Q8B,Ursus americanus,American black bear,XM_045784970.1,XP_045640926.1,,model,,
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846737.1,XP_045702693.1,,model,,default-seq
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846738.1,XP_045702694.1,,model,,
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846739.1,XP_045702695.1,,model,,
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846740.1,XP_045702696.1,,model,,
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846741.1,XP_045702697.1,,model,,
+123823760,COQ8B,coenzyme Q8B,Phyllostomus hastatus,greater spear-nosed bat,XM_045846742.1,XP_045702698.1,,model,,
+123855677,COQ8B,coenzyme Q8B,Mirounga angustirostris,Northern elephant seal,XM_045891566.3,XP_045747522.1,,model,,default-seq
+123855677,COQ8B,coenzyme Q8B,Mirounga angustirostris,Northern elephant seal,XM_045891567.3,XP_045747523.1,,model,,
+123855677,COQ8B,coenzyme Q8B,Mirounga angustirostris,Northern elephant seal,XM_054511418.2,XP_054367393.1,,model,,
+123931211,COQ8B,coenzyme Q8B,Meles meles,Eurasian badger,XM_045988098.1,XP_045844054.1,,model,,default-seq
+123931211,COQ8B,coenzyme Q8B,Meles meles,Eurasian badger,XM_045988099.1,XP_045844055.1,,model,,
+123931211,COQ8B,coenzyme Q8B,Meles meles,Eurasian badger,XM_045988100.1,XP_045844056.1,,model,,
+124089846,Coq8b,coenzyme Q8B,Marmota monax,woodchuck,XM_046440075.2,XP_046296031.1,,model,,default-seq
+124089846,Coq8b,coenzyme Q8B,Marmota monax,woodchuck,XM_046440076.2,XP_046296032.1,,model,,
+124089846,Coq8b,coenzyme Q8B,Marmota monax,woodchuck,XM_046440077.2,XP_046296033.1,,model,,
+124089846,Coq8b,coenzyme Q8B,Marmota monax,woodchuck,XM_046440078.2,XP_046296034.1,,model,,
+124089846,Coq8b,coenzyme Q8B,Marmota monax,woodchuck,XM_046440079.2,XP_046296035.1,,model,,
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680165.1,XP_046536121.1,,model,,default-seq
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680166.1,XP_046536122.1,,model,,
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680167.1,XP_046536123.1,,model,,
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680168.1,XP_046536124.1,,model,,
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680169.1,XP_046536125.1,,model,,
+124249301,COQ8B,coenzyme Q8B,Equus quagga,plains zebra,XM_046680170.1,XP_046536126.1,,model,,
+124511111,COQ8B,coenzyme Q8B,Lynx rufus,bobcat,XM_047078023.1,XP_046933979.1,,model,,default-seq
+124511111,COQ8B,coenzyme Q8B,Lynx rufus,bobcat,XM_047078024.1,XP_046933980.1,,model,,
+124511111,COQ8B,coenzyme Q8B,Lynx rufus,bobcat,XR_006961824.1,,,model,,
+124966530,Coq8b,coenzyme Q8B,Sciurus carolinensis,gray squirrel,XM_047527866.1,XP_047383822.1,,model,,default-seq
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711888.1,XP_047567844.1,,model,,default-seq
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711887.1,XP_047567843.1,,model,,
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711889.1,XP_047567845.1,,model,,
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711890.1,XP_047567846.1,,model,,
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711891.1,XP_047567847.1,,model,,
+125089593,COQ8B,coenzyme Q8B,Lutra lutra,Eurasian river otter,XM_047711892.1,XP_047567848.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789796.1,XP_047645752.1,,model,,default-seq
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789798.1,XP_047645754.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789799.1,XP_047645755.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789800.1,XP_047645756.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789801.1,XP_047645757.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789802.1,XP_047645758.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789803.1,XP_047645759.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789804.1,XP_047645760.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789805.1,XP_047645761.1,,model,,
+125132492,COQ8B,coenzyme Q8B,Phacochoerus africanus,Common warthog,XM_047789806.1,XP_047645762.1,,model,,
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XM_047835504.1,XP_047691460.1,,model,,default-seq
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XM_047835505.1,XP_047691461.1,,model,,
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XM_047835506.1,XP_047691462.1,,model,,
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XM_047835507.1,XP_047691463.1,,model,,
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XM_047835508.1,XP_047691464.1,,model,,
+125152897,COQ8B,coenzyme Q8B,Prionailurus viverrinus,fishing cat,XR_007147353.1,,,model,,
+125368273,Coq8b,coenzyme Q8B,Perognathus longimembris pacificus,Pacific pocket mouse,XM_048369133.1,XP_048225090.1,,model,,default-seq
+125368273,Coq8b,coenzyme Q8B,Perognathus longimembris pacificus,Pacific pocket mouse,XM_048369134.1,XP_048225091.1,,model,,
+125368273,Coq8b,coenzyme Q8B,Perognathus longimembris pacificus,Pacific pocket mouse,XM_048369136.1,XP_048225093.1,,model,,
+125404541,Coq8b,coenzyme Q8B,Myodes glareolus,Bank vole,XM_048440498.1,XP_048296455.1,,model,,default-seq
+125404541,Coq8b,coenzyme Q8B,Myodes glareolus,Bank vole,XM_048440507.1,XP_048296464.1,,model,,
+125404541,Coq8b,coenzyme Q8B,Myodes glareolus,Bank vole,XM_048440516.1,XP_048296473.1,,model,,
+125915795,COQ8B,coenzyme Q8B,Panthera uncia,snow leopard,XM_049621806.1,XP_049477763.1,,model,,default-seq
+125915795,COQ8B,coenzyme Q8B,Panthera uncia,snow leopard,XM_049621807.1,XP_049477764.1,,model,,
+125915795,COQ8B,coenzyme Q8B,Panthera uncia,snow leopard,XR_007455748.1,,,model,,
+126028123,COQ8B,coenzyme Q8B,Suncus etruscus,white-toothed pygmy shrew,XM_049787170.1,XP_049643127.1,,model,,default-seq
+126085193,COQ8B,coenzyme Q8B,Elephas maximus indicus,,XM_049900294.1,XP_049756251.1,,model,,default-seq
+126085193,COQ8B,coenzyme Q8B,Elephas maximus indicus,,XM_049900295.1,XP_049756252.1,,model,,
+126085193,COQ8B,coenzyme Q8B,Elephas maximus indicus,,XM_049900296.1,XP_049756253.1,,model,,
+126085193,COQ8B,coenzyme Q8B,Elephas maximus indicus,,XM_049900297.1,XP_049756254.1,,model,,
+126085193,COQ8B,coenzyme Q8B,Elephas maximus indicus,,XM_049900299.1,XP_049756256.1,,model,,
+126492552,Coq8b,coenzyme Q8B,Alexandromys fortis,reed vole,XM_050129042.1,XP_049984999.1,,model,,default-seq
+126492552,Coq8b,coenzyme Q8B,Alexandromys fortis,reed vole,XM_050129043.1,XP_049985000.1,,model,,
+126492552,Coq8b,coenzyme Q8B,Alexandromys fortis,reed vole,XM_050129044.1,XP_049985001.1,,model,,
+126492552,Coq8b,coenzyme Q8B,Alexandromys fortis,reed vole,XM_050129045.1,XP_049985002.1,,model,,
+126492552,Coq8b,coenzyme Q8B,Alexandromys fortis,reed vole,XM_050129047.1,XP_049985004.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768980.1,XP_050624937.1,,model,,default-seq
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768981.1,XP_050624938.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768982.1,XP_050624939.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768983.1,XP_050624940.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768984.1,XP_050624941.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768985.1,XP_050624942.1,,model,,
+126941995,COQ8B,coenzyme Q8B,Macaca thibetana thibetana,,XM_050768986.1,XP_050624943.1,,model,,
+127203786,Coq8b,coenzyme Q8B,Acomys russatus,golden spiny mouse,XM_051162655.1,XP_051018612.1,,model,,default-seq
+127238376,Coq8b,coenzyme Q8B,Phodopus roborovskii,desert hamster,XM_051206964.1,XP_051062921.1,,model,,default-seq
+127556191,COQ8B,coenzyme Q8B,Antechinus flavipes,yellow-footed antechinus,XM_051989198.1,XP_051845158.1,,model,,default-seq
+127672925,Coq8b,coenzyme Q8B,Apodemus sylvaticus,European woodmouse,XM_052168365.1,XP_052024325.1,,model,,default-seq
+127672925,Coq8b,coenzyme Q8B,Apodemus sylvaticus,European woodmouse,XM_052168372.1,XP_052024332.1,,model,,
+128063016,COQ8B,coenzyme Q8B,Budorcas taxicolor,takin,XM_052655553.1,XP_052511513.1,,model,,default-seq
+128063016,COQ8B,coenzyme Q8B,Budorcas taxicolor,takin,XM_052655554.1,XP_052511514.1,,model,,
+128063016,COQ8B,coenzyme Q8B,Budorcas taxicolor,takin,XM_052655556.1,XP_052511516.1,,model,,
+128063016,COQ8B,coenzyme Q8B,Budorcas taxicolor,takin,XM_052655557.1,XP_052511517.1,,model,,
+128095599,Coq8b,coenzyme Q8B,Peromyscus californicus insignis,,XM_052714715.1,XP_052570675.1,,model,,default-seq
+128095599,Coq8b,coenzyme Q8B,Peromyscus californicus insignis,,XM_052714716.1,XP_052570676.1,,model,,
+128095599,Coq8b,coenzyme Q8B,Peromyscus californicus insignis,,XM_052714717.1,XP_052570677.1,,model,,
+128095599,Coq8b,coenzyme Q8B,Peromyscus californicus insignis,,XM_052714718.1,XP_052570678.1,,model,,
+128095599,Coq8b,coenzyme Q8B,Peromyscus californicus insignis,,XM_052714719.1,XP_052570679.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605755.1,XP_053461730.1,,model,,default-seq
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605756.1,XP_053461731.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605757.1,XP_053461732.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605758.1,XP_053461733.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605759.1,XP_053461734.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605760.1,XP_053461735.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605761.1,XP_053461736.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605762.1,XP_053461737.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605763.1,XP_053461738.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605764.1,XP_053461739.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605765.1,XP_053461740.1,,model,,
+128596198,COQ8B,coenzyme Q8B,Nycticebus coucang,slow loris,XM_053605766.1,XP_053461741.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461822.2,XP_054317797.2,,model,,default-seq
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461821.2,XP_054317796.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461823.2,XP_054317798.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461824.2,XP_054317799.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461827.2,XP_054317802.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_054461832.2,XP_054317807.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_063657754.1,XP_063513824.1,,model,,
+129019391,COQ8B,coenzyme Q8B,Pongo pygmaeus,Bornean orangutan,XM_063657755.1,XP_063513825.1,,model,,
+129076684,COQ8B,coenzyme Q8B,Pteronotus mesoamericanus,,XM_054580834.1,XP_054436809.1,,model,,default-seq
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620984.1,XP_063477054.1,,model,,default-seq
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_055250638.2,XP_055106613.2,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_055250644.2,XP_055106619.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_055250645.2,XP_055106620.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620985.1,XP_063477055.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620986.1,XP_063477056.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620987.1,XP_063477057.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620988.1,XP_063477058.1,,model,,
+129466704,COQ8B,coenzyme Q8B,Symphalangus syndactylus,siamang,XM_063620989.1,XP_063477059.1,,model,,
+129501043,COQ8B,coenzyme Q8B,Nyctereutes procyonoides,raccoon dog,XM_055312047.1,XP_055168022.1,,model,,default-seq
+129501043,COQ8B,coenzyme Q8B,Nyctereutes procyonoides,raccoon dog,XM_055312048.1,XP_055168023.1,,model,,
+129501043,COQ8B,coenzyme Q8B,Nyctereutes procyonoides,raccoon dog,XM_055312049.1,XP_055168024.1,,model,,
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412118.1,XP_055268093.1,,model,,default-seq
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412119.1,XP_055268094.1,,model,,
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412120.1,XP_055268095.1,,model,,
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412122.1,XP_055268097.1,,model,,
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412123.1,XP_055268098.1,,model,,
+129546802,COQ8B,coenzyme Q8B,Moschus berezovskii,Chinese forest musk deer,XM_055412124.1,XP_055268099.1,,model,,
+129632347,COQ8B,coenzyme Q8B,Bubalus kerabau,carabao,XM_055553860.1,XP_055409835.1,,model,,default-seq
+129632347,COQ8B,coenzyme Q8B,Bubalus kerabau,carabao,XM_055553861.1,XP_055409836.1,,model,,
+129632347,COQ8B,coenzyme Q8B,Bubalus kerabau,carabao,XM_055553862.1,XP_055409837.1,,model,,
+129667289,Coq8b,coenzyme Q8B,Psammomys obesus,fat sand rat,XM_055594851.1,XP_055450826.1,,model,,default-seq
+129667289,Coq8b,coenzyme Q8B,Psammomys obesus,fat sand rat,XM_055594850.1,XP_055450825.1,,model,,
+129667289,Coq8b,coenzyme Q8B,Psammomys obesus,fat sand rat,XM_055594852.1,XP_055450827.1,,model,,
+129667289,Coq8b,coenzyme Q8B,Psammomys obesus,fat sand rat,XM_055594853.1,XP_055450828.1,,model,,
+130044338,COQ8B,coenzyme Q8B,Sorex fumeus,smoky shrew,XM_056137041.1,XP_055993016.1,,model,,default-seq
+130044338,COQ8B,coenzyme Q8B,Sorex fumeus,smoky shrew,XM_056137042.1,XP_055993017.1,,model,,
+130044338,COQ8B,coenzyme Q8B,Sorex fumeus,smoky shrew,XM_056137044.1,XP_055993019.1,,model,,
+130839042,COQ8B,coenzyme Q8B,Hippopotamus amphibius kiboko,,XM_057712847.1,XP_057568830.1,,model,,default-seq
+130839042,COQ8B,coenzyme Q8B,Hippopotamus amphibius kiboko,,XM_057712848.1,XP_057568831.1,,model,,
+130839042,COQ8B,coenzyme Q8B,Hippopotamus amphibius kiboko,,XM_057712849.1,XP_057568832.1,,model,,
+130839042,COQ8B,coenzyme Q8B,Hippopotamus amphibius kiboko,,XM_057712851.1,XP_057568834.1,,model,,
+130839042,COQ8B,coenzyme Q8B,Hippopotamus amphibius kiboko,,XM_057712852.1,XP_057568835.1,,model,,
+130869466,Coq8b,coenzyme Q8B,Chionomys nivalis,European snow vole,XM_057761665.1,XP_057617648.1,,model,,default-seq
+130869466,Coq8b,coenzyme Q8B,Chionomys nivalis,European snow vole,XM_057761666.1,XP_057617649.1,,model,,
+131396867,COQ8B,coenzyme Q8B,Diceros bicornis minor,,XM_058529360.1,XP_058385343.1,,model,,default-seq
+131396867,COQ8B,coenzyme Q8B,Diceros bicornis minor,,XM_058529361.1,XP_058385344.1,,model,,
+131396867,COQ8B,coenzyme Q8B,Diceros bicornis minor,,XM_058529362.1,XP_058385345.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706364.1,XP_058562347.1,,model,,default-seq
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706365.1,XP_058562348.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706366.1,XP_058562349.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706367.1,XP_058562350.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706368.1,XP_058562351.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706369.1,XP_058562352.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XM_058706371.1,XP_058562354.1,,model,,
+131498887,COQ8B,coenzyme Q8B,Neofelis nebulosa,Clouded leopard,XR_009255626.1,,,model,,
+131745226,COQ8B,coenzyme Q8B,Kogia breviceps,pygmy sperm whale,XM_067019674.1,XP_066875775.1,,model,,default-seq
+131745226,COQ8B,coenzyme Q8B,Kogia breviceps,pygmy sperm whale,XM_059045553.2,XP_058901536.1,,model,,
+131745226,COQ8B,coenzyme Q8B,Kogia breviceps,pygmy sperm whale,XM_067019675.1,XP_066875776.1,,model,,
+131745226,COQ8B,coenzyme Q8B,Kogia breviceps,pygmy sperm whale,XM_067019676.1,XP_066875777.1,,model,,
+131745226,COQ8B,coenzyme Q8B,Kogia breviceps,pygmy sperm whale,XM_067019677.1,XP_066875778.1,,model,,
+131818591,COQ8B,coenzyme Q8B,Mustela lutreola,European mink,XM_059153208.1,XP_059009191.1,,model,,default-seq
+131818591,COQ8B,coenzyme Q8B,Mustela lutreola,European mink,XM_059153209.1,XP_059009192.1,,model,,
+131818591,COQ8B,coenzyme Q8B,Mustela lutreola,European mink,XM_059153210.1,XP_059009193.1,,model,,
+131924305,Coq8b,coenzyme Q8B,Peromyscus eremicus,cactus mouse,XM_059279577.1,XP_059135560.1,,model,,default-seq
+132004826,COQ8B,coenzyme Q8B,Mustela nigripes,black-footed ferret,XM_059381383.1,XP_059237366.1,,model,,default-seq
+132004826,COQ8B,coenzyme Q8B,Mustela nigripes,black-footed ferret,XM_059381384.1,XP_059237367.1,,model,,
+132004826,COQ8B,coenzyme Q8B,Mustela nigripes,black-footed ferret,XM_059381385.1,XP_059237368.1,,model,,
+132216875,COQ8B,coenzyme Q8B,Myotis daubentonii,Daubenton's bat,XM_059666503.1,XP_059522486.1,,model,,default-seq
+132353629,COQ8B,coenzyme Q8B,Balaenoptera ricei,Rice's whale,XM_059904968.1,XP_059760951.1,,model,,default-seq
+132353629,COQ8B,coenzyme Q8B,Balaenoptera ricei,Rice's whale,XM_059904969.1,XP_059760952.1,,model,,
+132353629,COQ8B,coenzyme Q8B,Balaenoptera ricei,Rice's whale,XM_059904970.1,XP_059760953.1,,model,,
+132353629,COQ8B,coenzyme Q8B,Balaenoptera ricei,Rice's whale,XM_059904971.1,XP_059760954.1,,model,,
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001044.1,XP_059857027.1,,model,,default-seq
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001045.1,XP_059857028.1,,model,,
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001046.1,XP_059857029.1,,model,,
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001047.1,XP_059857030.1,,model,,
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001048.1,XP_059857031.1,,model,,
+132417335,COQ8B,coenzyme Q8B,Delphinus delphis,saddleback dolphin,XM_060001049.1,XP_059857032.1,,model,,
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083655.1,XP_059939638.1,,model,,default-seq
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083656.1,XP_059939639.1,,model,,
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083657.1,XP_059939640.1,,model,,
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083658.1,XP_059939641.1,,model,,
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083659.1,XP_059939642.1,,model,,
+132479929,COQ8B,coenzyme Q8B,Mesoplodon densirostris,Blainville's beaked whale,XM_060083660.1,XP_059939643.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129914.1,XP_059985897.1,,model,,default-seq
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129915.1,XP_059985898.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129916.1,XP_059985899.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129917.1,XP_059985900.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129919.1,XP_059985902.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129920.1,XP_059985903.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129921.1,XP_059985904.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129922.1,XP_059985905.1,,model,,
+132509213,COQ8B,coenzyme Q8B,Lagenorhynchus albirostris,white-beaked dolphin,XM_060129923.1,XP_059985906.1,,model,,
+132689910,COQ8B,coenzyme Q8B,Panthera onca,jaguar,XM_060649794.1,XP_060505777.1,,model,,default-seq
+133054379,COQ8B,coenzyme Q8B,Dama dama,fallow deer,XM_061139337.1,XP_060995320.1,,model,,default-seq
+133054379,COQ8B,coenzyme Q8B,Dama dama,fallow deer,XM_061139338.1,XP_060995321.1,,model,,
+133054379,COQ8B,coenzyme Q8B,Dama dama,fallow deer,XM_061139339.1,XP_060995322.1,,model,,
+133054379,COQ8B,coenzyme Q8B,Dama dama,fallow deer,XR_009692398.1,,,model,,
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173334.1,XP_061029317.1,,model,,default-seq
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173335.1,XP_061029318.1,,model,,
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173336.1,XP_061029319.1,,model,,
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173337.1,XP_061029320.1,,model,,
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173338.1,XP_061029321.1,,model,,
+133078327,COQ8B,coenzyme Q8B,Eubalaena glacialis,North Atlantic right whale,XM_061173339.1,XP_061029322.1,,model,,
+133230617,COQ8B,coenzyme Q8B,Bos javanicus,banteng,XM_061388329.1,XP_061244313.1,,model,,default-seq
+133230617,COQ8B,coenzyme Q8B,Bos javanicus,banteng,XM_061388330.1,XP_061244314.1,,model,,
+133230617,COQ8B,coenzyme Q8B,Bos javanicus,banteng,XM_061388331.1,XP_061244315.1,,model,,
+133230617,COQ8B,coenzyme Q8B,Bos javanicus,banteng,XM_061388332.1,XP_061244316.1,,model,,
+133747512,COQ8B,coenzyme Q8B,Lepus europaeus,European hare,XM_062175805.1,XP_062031789.1,,model,,default-seq
+133747512,COQ8B,coenzyme Q8B,Lepus europaeus,European hare,XM_062175806.1,XP_062031790.1,,model,,
+133747512,COQ8B,coenzyme Q8B,Lepus europaeus,European hare,XM_062175807.1,XP_062031791.1,,model,,
+134388272,COQ8B,coenzyme Q8B,Cynocephalus volans,Philippine flying lemur,XM_063111184.1,XP_062967254.1,,model,,default-seq
+134388272,COQ8B,coenzyme Q8B,Cynocephalus volans,Philippine flying lemur,XM_063111185.1,XP_062967255.1,,model,,
+134388272,COQ8B,coenzyme Q8B,Cynocephalus volans,Philippine flying lemur,XM_063111186.1,XP_062967256.1,,model,,
+134388272,COQ8B,coenzyme Q8B,Cynocephalus volans,Philippine flying lemur,XM_063111187.1,XP_062967257.1,,model,,
+136140234,COQ8B,coenzyme Q8B,Phocoena phocoena,harbor porpoise,XM_065898314.1,XP_065754386.1,,model,,default-seq
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926137.1,XP_065782209.1,,model,,default-seq
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926138.1,XP_065782210.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926139.1,XP_065782211.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926140.1,XP_065782212.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926141.1,XP_065782213.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926142.1,XP_065782214.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926143.1,XP_065782215.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926144.1,XP_065782216.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926145.1,XP_065782217.1,,model,,
+136161347,COQ8B,coenzyme Q8B,Muntiacus reevesi,Reeves' muntjac,XM_065926146.1,XP_065782218.1,,model,,
+136313470,COQ8B,coenzyme Q8B,Saccopteryx bilineata,greater sac-winged bat,XM_066243854.1,XP_066099951.1,,model,,default-seq
+136313470,COQ8B,coenzyme Q8B,Saccopteryx bilineata,greater sac-winged bat,XM_066243855.1,XP_066099952.1,,model,,
+136313470,COQ8B,coenzyme Q8B,Saccopteryx bilineata,greater sac-winged bat,XM_066243856.1,XP_066099953.1,,model,,
+136313470,COQ8B,coenzyme Q8B,Saccopteryx bilineata,greater sac-winged bat,XM_066243857.1,XP_066099954.1,,model,,
+136381381,COQ8B,coenzyme Q8B,Saccopteryx leptura,lesser sac-winged bat,XM_066350027.1,XP_066206124.1,,model,,default-seq
+136381381,COQ8B,coenzyme Q8B,Saccopteryx leptura,lesser sac-winged bat,XM_066350028.1,XP_066206125.1,,model,,
+136381381,COQ8B,coenzyme Q8B,Saccopteryx leptura,lesser sac-winged bat,XM_066350030.1,XP_066206127.1,,model,,
+136381381,COQ8B,coenzyme Q8B,Saccopteryx leptura,lesser sac-winged bat,XM_066350031.1,XP_066206128.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721204.1,XP_067577305.1,,model,,default-seq
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721205.1,XP_067577306.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721207.1,XP_067577308.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721208.1,XP_067577309.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721209.1,XP_067577310.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721210.1,XP_067577311.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721211.1,XP_067577312.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721212.1,XP_067577313.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721213.1,XP_067577314.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721214.1,XP_067577315.1,,model,,
+137215679,COQ8B,coenzyme Q8B,Pseudorca crassidens,false killer whale,XM_067721215.1,XP_067577316.1,,model,,
+137753300,COQ8B,coenzyme Q8B,Eschrichtius robustus,grey whale,XM_068528399.1,XP_068384500.1,,model,,default-seq
+137753300,COQ8B,coenzyme Q8B,Eschrichtius robustus,grey whale,XM_068528400.1,XP_068384501.1,,model,,
+137753300,COQ8B,coenzyme Q8B,Eschrichtius robustus,grey whale,XM_068528401.1,XP_068384502.1,,model,,
+137753300,COQ8B,coenzyme Q8B,Eschrichtius robustus,grey whale,XM_068528402.1,XP_068384503.1,,model,,
+138096081,COQ8B,coenzyme Q8B,Capricornis sumatraensis,Sumatran serow,XM_068992179.1,XP_068848280.1,,model,,default-seq
+138154508,COQ8B,coenzyme Q8B,Petaurus breviceps papuanus,,XM_069079364.1,XP_068935465.1,,model,,default-seq
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458593.1,XP_069314694.1,,model,,default-seq
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458594.1,XP_069314695.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458595.1,XP_069314696.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458597.1,XP_069314698.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458598.1,XP_069314699.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458599.1,XP_069314700.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458600.1,XP_069314701.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458601.1,XP_069314702.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458602.1,XP_069314703.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458603.1,XP_069314704.1,,model,,
+138375150,COQ8B,coenzyme Q8B,Eulemur rufifrons,Bennett's brown lemur,XM_069458604.1,XP_069314705.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550782.1,XP_069406883.1,,model,,default-seq
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550783.1,XP_069406884.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550784.1,XP_069406885.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550785.1,XP_069406886.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550786.1,XP_069406887.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550788.1,XP_069406889.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550789.1,XP_069406890.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550790.1,XP_069406891.1,,model,,
+138418872,COQ8B,coenzyme Q8B,Ovis canadensis,bighorn sheep,XM_069550791.1,XP_069406892.1,,model,,
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398174.1,XP_070254275.1,,model,,default-seq
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398175.1,XP_070254276.1,,model,,
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398176.1,XP_070254277.1,,model,,
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398177.1,XP_070254278.1,,model,,
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398178.1,XP_070254279.1,,model,,
+138996906,COQ8B,coenzyme Q8B,Myotis yumanensis,,XM_070398179.1,XP_070254280.1,,model,,
+140503888,COQ8B,coenzyme Q8B,Notamacropus eugenii,tammar wallaby,XM_072608247.1,XP_072464348.1,,model,,default-seq
+140503888,COQ8B,coenzyme Q8B,Notamacropus eugenii,tammar wallaby,XM_072608248.1,XP_072464349.1,,model,,
+140503888,COQ8B,coenzyme Q8B,Notamacropus eugenii,tammar wallaby,XM_072608249.1,XP_072464350.1,,model,,
+140503888,COQ8B,coenzyme Q8B,Notamacropus eugenii,tammar wallaby,XM_072608250.1,XP_072464351.1,,model,,
+140605154,COQ8B,coenzyme Q8B,Canis lupus baileyi,Mexican gray wolf,XM_072777253.1,XP_072633354.1,,model,,default-seq
+140605154,COQ8B,coenzyme Q8B,Canis lupus baileyi,Mexican gray wolf,XM_072777263.1,XP_072633364.1,,model,,
+140605154,COQ8B,coenzyme Q8B,Canis lupus baileyi,Mexican gray wolf,XM_072777270.1,XP_072633371.1,,model,,
+140605154,COQ8B,coenzyme Q8B,Canis lupus baileyi,Mexican gray wolf,XM_072777275.1,XP_072633376.1,,model,,
+140605154,COQ8B,coenzyme Q8B,Canis lupus baileyi,Mexican gray wolf,XM_072777286.1,XP_072633387.1,,model,,
+141509493,COQ8B,coenzyme Q8B,Macrotis lagotis,bilby,XM_074219094.1,XP_074075195.1,,model,,default-seq
+141509493,COQ8B,coenzyme Q8B,Macrotis lagotis,bilby,XM_074219095.1,XP_074075196.1,,model,,
+141509493,COQ8B,coenzyme Q8B,Macrotis lagotis,bilby,XM_074219096.1,XP_074075197.1,,model,,
+141548569,COQ8B,coenzyme Q8B,Sminthopsis crassicaudata,fat-tailed dunnart,XM_074277547.1,XP_074133648.1,,model,,default-seq
+141548569,COQ8B,coenzyme Q8B,Sminthopsis crassicaudata,fat-tailed dunnart,XM_074277548.1,XP_074133649.1,,model,,
+141548569,COQ8B,coenzyme Q8B,Sminthopsis crassicaudata,fat-tailed dunnart,XM_074277549.1,XP_074133650.1,,model,,
+141548569,COQ8B,coenzyme Q8B,Sminthopsis crassicaudata,fat-tailed dunnart,XM_074277551.1,XP_074133652.1,,model,,
+141548569,COQ8B,coenzyme Q8B,Sminthopsis crassicaudata,fat-tailed dunnart,XM_074277552.1,XP_074133653.1,,model,,
+142432114,COQ8B,coenzyme Q8B,Tenrec ecaudatus,tailess tenrec,XM_075537207.1,XP_075393322.1,,model,,default-seq
+142432114,COQ8B,coenzyme Q8B,Tenrec ecaudatus,tailess tenrec,XM_075537208.1,XP_075393323.1,,model,,
+142858485,Coq8b,coenzyme Q8B,Microtus pennsylvanicus,meadow vole,XM_075987766.1,XP_075843881.1,,model,,default-seq
+142858485,Coq8b,coenzyme Q8B,Microtus pennsylvanicus,meadow vole,XM_075987775.1,XP_075843890.1,,model,,
+143383539,Coq8b,coenzyme Q8B,Callospermophilus lateralis,golden-mantled ground squirrel,XM_076838226.2,XP_076694341.2,,model,,default-seq
+143383539,Coq8b,coenzyme Q8B,Callospermophilus lateralis,golden-mantled ground squirrel,XM_076838227.2,XP_076694342.2,,model,,
+143383539,Coq8b,coenzyme Q8B,Callospermophilus lateralis,golden-mantled ground squirrel,XM_076838228.2,XP_076694343.2,,model,,
+143383539,Coq8b,coenzyme Q8B,Callospermophilus lateralis,golden-mantled ground squirrel,XM_076838229.2,XP_076694344.2,,model,,
+143659152,COQ8B,coenzyme Q8B,Tamandua tetradactyla,southern tamandua,XM_077131805.1,XP_076987920.1,,model,,default-seq
+143659152,COQ8B,coenzyme Q8B,Tamandua tetradactyla,southern tamandua,XM_077131806.1,XP_076987921.1,,model,,
+143659152,COQ8B,coenzyme Q8B,Tamandua tetradactyla,southern tamandua,XM_077131807.1,XP_076987922.1,,model,,
+143659152,COQ8B,coenzyme Q8B,Tamandua tetradactyla,southern tamandua,XM_077131808.1,XP_076987923.1,,model,,
+143659152,COQ8B,coenzyme Q8B,Tamandua tetradactyla,southern tamandua,XM_077131809.1,XP_076987924.1,,model,,
